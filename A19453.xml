@@ -1,0 +1,858 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The court of good counsell VVherein is set downe the true rules, how a man should choose a good wife from a bad, and a woman a good husband from a bad. Wherein is also expressed, the great care that parents should haue, for the bestowing of their children in mariage: and likewise how children ought to behaue themselues towardes their parents: and how maisters ought to gouerne their seruants, and how seruants ought to be obedient towards their maisters. Set forth as a patterne, for all people to learne wit by: published by one that hath dearely bought it by experience.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1607</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 123 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19453</idno>
+            <idno type="STC">STC 5876</idno>
+            <idno type="STC">ESTC S105096</idno>
+            <idno type="EEBO-CITATION">99840826</idno>
+            <idno type="PROQUEST">99840826</idno>
+            <idno type="VID">5364</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19453)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5364)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1375:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The court of good counsell VVherein is set downe the true rules, how a man should choose a good wife from a bad, and a woman a good husband from a bad. Wherein is also expressed, the great care that parents should haue, for the bestowing of their children in mariage: and likewise how children ought to behaue themselues towardes their parents: and how maisters ought to gouerne their seruants, and how seruants ought to be obedient towards their maisters. Set forth as a patterne, for all people to learne wit by: published by one that hath dearely bought it by experience.</title>
+                  <author>Guazzo, Stefano, 1530-1593. Civil conversatione.</author>
+               </titleStmt>
+               <extent>[72] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Raph Blower, and are to be solde by William Barley at his shop in Gratious Streete,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An adaptation of selections of book 3 of: Guazzo, Stefano.  La civil conversatione.</note>
+                  <note>Signatures: A-I⁴.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Domestic relations --  Early works to 1800.</term>
+               <term>Domestics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2013-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5364:1"/>
+            <pb facs="tcp:5364:1" rendition="simple:additions"/>
+            <p>THE COVRT OF <hi>good Counſell.</hi>
+            </p>
+            <p>VVHEREIN IS SET downe the true rules, how a man ſhould chooſe a good Wife from a bad, and woman a good Husband from a bad.</p>
+            <p>WHEREIN IS ALSO EXPRES<g ref="char:EOLhyphen"/>ſed, the great care that Parents ſhould haue, for the beſtowing of their Children in Mariages And likewiſe how Children ought to behaue them<g ref="char:EOLhyphen"/>
+               <hi>ſelues towardes their Parents: And how Mai<g ref="char:EOLhyphen"/>ſters ought to gouerne their Seruants, and</hi> how Seruants ought to be obedient towards their Maiſters.</p>
+            <p>Set forth as a patterne, for all people to <hi>learne <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it by: publiſhed by one that hath deare<g ref="char:EOLhyphen"/>ly</hi> bought it by experience.</p>
+            <p>¶ At London printed by Raph Blower, and are to be ſolde by <hi>William Barley</hi> at his ſhop in Gratious Streete. 1607. (⁂)</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:5364:2" rendition="simple:additions"/>
+            <pb facs="tcp:5364:2"/>
+            <head>TO THE RIGHT WORSHIP<g ref="char:EOLhyphen"/>full Sir <hi>Iohn Ioles</hi> Knight, and one of the Worſhipfull Aldermen, of the Honorable Cittie of London.</head>
+            <p>
+               <seg rend="decorInit">H</seg>AVING (Right Wor<g ref="char:EOLhyphen"/>ſhipfull) the induſtrious labours of a willing pra<g ref="char:EOLhyphen"/>ctioner, in the diſcourſes of Morall Philoſophy, (the ſame comming by chaunce into my hands to be imprinted) which ſaid matters beare the Title of The Court of good Counſell, wherein the duty of all ſorts of people is moſt Lyuely ſet foorth: Which for th'ex<g ref="char:EOLhyphen"/>celencie of the diſcourſe, deſerues a Patron of a Iudiciall cenſure. And now your Wor<g ref="char:EOLhyphen"/>ſhip beeing one whom my ſecret thoughts deepely affect, I haue boldly dedicated the ſame vnto you, wiſhing the ſame as worthy of your VVorſhips acceptance, as my de<g ref="char:EOLhyphen"/>ſire moſt humbly requireth. Thus leauing your VVorſhip to the Tuition of the Al<g ref="char:EOLhyphen"/>mighty, whom I pray to bleſſe in this world with much proſperity, And in the life to come with bleſſed Eternitie.</p>
+            <closer>
+               <signed>Your Worſhips in all dutie W. B.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:5364:3"/>
+            <pb facs="tcp:5364:3"/>
+            <head>Heere beginneth the table of this booke.</head>
+            <list>
+               <label>CHAP. I.</label>
+               <item>CErtaine reaſons intreating of the great and comfor<g ref="char:EOLhyphen"/>table ioyes of Mariage, if the ſame be duely and right<g ref="char:EOLhyphen"/>ly regarded as they ought to be.</item>
+               <label>CHAP. II.</label>
+               <item>How that oftentimes wiſe Parents may haue fooliſh Children, and fooliſh Parents wiſe Children, and how that oftentimes rich mens Children (beeing left rich) become poore, and poore mens Children become rich.</item>
+               <label>CHAP. III.</label>
+               <item>What great care a man ought to haue in the choyce of his Wife, and what circumſpection ought to be had there<g ref="char:EOLhyphen"/>in: likewiſe ſhewing, that many miſchaunces often happen to the Children through the manyfolde imperfections of the Parents.</item>
+               <label>CHAP. IIII.</label>
+               <item>How an vntoward young woman, or a wanton Wife, may be eaſily gouerned by her Husband, if ſhe haue any good nature or modeſty in her at all, eſpecially if the man himſelfe be of any reaſonable gouerment.</item>
+               <label>CHAP. V.</label>
+               <item>When a man or woman hath bin once Maried, and after<g ref="char:EOLhyphen"/>wards becommeth a Widdower or a Widdow againe, what great inconuenience hapneth often to the Children by Step<g ref="char:EOLhyphen"/>mothers: eſpecially if that both the parents, doe not agree well together.</item>
+               <pb facs="tcp:5364:4"/>
+               <label>CHAP. VI.</label>
+               <item>Heere followeth the manner of life, that ought to be ob<g ref="char:EOLhyphen"/>ſerued and kept, betwixt Man and wife and how a man were better to chooſe a young Wife, then one that is aged.</item>
+               <label>CHAP. VII.</label>
+               <item>How ſome ſort of men by giuing of their wiues ouer<g ref="char:EOLhyphen"/>much liberty, doe perſwade themſelues, that that is the next way to make them honeſt.</item>
+               <label>CHAP. VIII.</label>
+               <item>Of the great care that euery Husband ought to haue for the keeping and maintayning of his Wife, whereby that through want, ſhe be not driuen to alter her manners and conditions.</item>
+               <label>CHAP. IX.</label>
+               <item>Herein is ſhewed the lone and obedience of the Wife towards her husband, and how that a woman that regardeth her owne credit, ought to refuſe the company of a woman that hath an ill name, or deſerueth any cauſe of ſuſpition.</item>
+               <label>CHAP. X.</label>
+               <item>An admonition to the wiſe and diſcreet woman, how to gouerne her ſelfe: Shewing that chaſtitie ioyned with va<g ref="char:EOLhyphen"/>nity, deſerueth no commendations at all. And how ma<g ref="char:EOLhyphen"/>ny women giue occaſion to beil thought of, for theſe fower cauſes following, (<hi>Viz</hi>) Deedes, Lookes, Wordes, and Apparell.</item>
+               <label>CHAP. XI.</label>
+               <item>How a woman ought not (as neere as ſhe can) giue any occaſion to her Husband to prouoke him to anger, neyther ought ſhe to be Iealous of him without great cauſe of de<g ref="char:EOLhyphen"/>ſert, ſhewing alſo that it is better to couer his faults, then to diſcloſe them.</item>
+               <label>CHAP. XII.</label>
+               <item>Hereafter followeth certaine admoniſhions how the wife may continue her loue and goodwill towardes her Huſ<g ref="char:EOLhyphen"/>band.</item>
+               <pb facs="tcp:5364:4"/>
+               <label>CHAP. XIII.</label>
+               <item>Of the conuerſation of Parents towards their Children, and of the diſagreements that oftentimes happen betwixt the Father and the Sonne.</item>
+               <label>CHAP. XIIII.</label>
+               <item>Of the great diſcomfort that Children many times bring to their Parents, through their miſ-deameanor towardes them: And of the euill ſucceſſe that oftentimes hapneth thereby.</item>
+               <label>CHAP. XV.</label>
+               <item>Wherein is ſhewed the occaſions of the great difference, that oftentimes hapneth between the parents &amp; the children.</item>
+               <label>CHAP. XVI.</label>
+               <item>Of the great wiſedome of men, in getting of riches, and of the excellency of many good and learned Maiſters, now in this age.</item>
+               <label>CHAP. XVII.</label>
+               <item>Of the euill ſucceſſe of many Children, through the im<g ref="char:EOLhyphen"/>perfections of their Parents.</item>
+               <label>CHAP. XVIII.</label>
+               <item>Of the lewdnes of many Children, through the want of their good bringing vp whileſt they are young: And of the ouer-fight of the Parents in ſuffring of them to grow too old or ſtuborne before they breake them of their obſtinacie.</item>
+               <label>CHAP. XIX.</label>
+               <item>If a Childe bee of neuer ſo good a wit, yet for want of good bringing vp, groweth to be ouer head-ſtrong and baſe in conditions: and this oftentimes falleth out, by the coc<g ref="char:EOLhyphen"/>kering of the Parents.</item>
+               <label>CHAP. XX.</label>
+               <item>Of the great commendations of ſuch Parents, as keepe their Children in awe, whileſt they are young.</item>
+               <label>CHAP XXI.</label>
+               <item>Heere followeth the duty of the Childe towards the Pa<g ref="char:EOLhyphen"/>rents.</item>
+               <pb facs="tcp:5364:5"/>
+               <label>CHAP. XXII.</label>
+               <item>Of the diuerſitie of the care that Parents ought to take of their Daughters, in the bringing vp of them, more then they take for the bringing vp of their Sonnes.</item>
+               <label>CHAP. XXIII.</label>
+               <item>Of the great diſagreements and diſcontentments that of<g ref="char:EOLhyphen"/>tentimes doth happen betweene the Maiſter and the ſeruant.</item>
+               <label>CHAP XXIIII.</label>
+               <item>Of the impatience of ſome Maiſters towards their Ser<g ref="char:EOLhyphen"/>uants, ouer other ſome.</item>
+               <label>CHAP. XXV.</label>
+               <item>Of the great abuſes of ſome Seruants towardes their Maiſters, which is rather for want of wit, then for any o<g ref="char:EOLhyphen"/>ther cauſe.</item>
+               <label>CHAP. XXVI.</label>
+               <item>How a Seruant may liue quietly with his Maiſter, if he be of any reaſonable gouerment.</item>
+               <label>CHAP. XXVII.</label>
+               <item>How the Maiſter with good perſwaſions may gouerne his Seruant, and in the obſtinacie of his Seruant, what will inſue vnto him.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb facs="tcp:5364:5"/>
+            <head>CHAP. I.</head>
+            <argument>
+               <p>The Court of good Councell: or Certaine Reaſons, intreating of the great and Comfortable Ioyes of Marriage, if the ſame be duely &amp; rightly regarded as it ought to be.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE greateſt ioy, and</hi> ſweete<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t comfort, that a man may haue in this worlde, is a louing, kinde, and honeſt wife: Contrari<g ref="char:EOLhyphen"/>wiſe, there is no greater plaque, nor torment to his minde then to be matched with an vntoward, wicked, and diſhoneſt Woman. Therefore let him that intendeth to marry, and fye himſelfe to that honorable ſtate of life: (being the firſt bargaine of thriſt, and the firſt ſtep to good huſbandry) take all the beſt Counſell he can in the world in the choyce of a Wife, yet ſcarce ſufficient enough: for being once done it can neuer be recall'd, but eyther lamen<g ref="char:EOLhyphen"/>ted too ſoone or repented too late.</p>
+            <p>Many be the occaſtions, that make mariage to haue an vnhappy ſucceſſe, by which good houſes, and great kin<g ref="char:EOLhyphen"/>dreds
+<pb facs="tcp:5364:6"/>are brought to ruyne and decay: as the difference between the marryed couple, eyther in yeares, or in call<g ref="char:EOLhyphen"/>ing: whereof both ariſe many quarrels about houſe-kee<g ref="char:EOLhyphen"/>ping and manners of life: therefore the way to liue qui<g ref="char:EOLhyphen"/>etly, is to marry equally in all reſpects.</p>
+            <p>Touching the difference in yeares, in mine oppinion it is an vnſeemely thing to ſsee a young woman matched with an olde man, that caryeth a countenance rather to be hir Father then her Huſband, and I am verely per<g ref="char:EOLhyphen"/>ſwaded that young and dainty Damſels, got as willing<g ref="char:EOLhyphen"/>ly to ſuch huſbands, as to their graues: For they are ſicke to become widowes in their huſbands life time, and to ſpend their dayes in a moſt miſerable caſe, for how mo<g ref="char:EOLhyphen"/>deſt or honeſt ſo euer they be, yet ſome will not ſticke to ſay that they are lewd and wanton, onely by reaſon of their huſbands white beards: Conſider I pray you on the other ſide, what a name, olde wrinkled, and toothles wo<g ref="char:EOLhyphen"/>men get, in taking huſbands that be young and beardles boyes: and tell me whether the rage of theſe olde women be not greater, then the young and of good nature, and haue theſe outward markes, that do betoken a good horſe.</p>
+            <p>I deny not but by the lookes of a woman, a man may gather ſomewhat of her diſpoſition: but ſeeing God hath commaunded vs not to iudge altogether by the face of the woman, we muſt yet vſe a more certaine and commodi<g ref="char:EOLhyphen"/>ous way, as in the next Chapter following you ſhall read.</p>
+         </div>
+         <div n="2" type="chapter">
+            <head>CHAP. II.</head>
+            <argument>
+               <p>¶ How that many times, Wiſe Parentes may haue fooliſh Children, and fooliſh Parents wiſe Children &amp; how that oftentimes, Rich mens Children (being left rich) become poore, and poore mens Chil<g ref="char:EOLhyphen"/>dren become rich.</p>
+            </argument>
+            <p>
+               <hi>I</hi> haue alwaies liked exceeding well of thoſe Marriages which are treated of tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely, without hiding of any thing,
+<pb facs="tcp:5364:6"/>which after comming to light, bringeth griefe and repen<g ref="char:EOLhyphen"/>tance to one of the parties, but neither men nor women now adayes vſe that orderly endeuoring ſo much as they may, to couer the faults as well of the body as the mind. But yet the ſureſt way to deale in the choice of a Wife: I will now report by the example of <hi>Olimpia</hi> the mother of <hi>Alexander.</hi> whoſe ſaying was, that women are to be married with the eares, before they are with the eyes, which is, that out of the mouthes of diuers people, a con<g ref="char:EOLhyphen"/>ſtant report may come of the parentage, life, and behaui<g ref="char:EOLhyphen"/>our of them: But the greedines of the world is ſo great at this day, that a man will ſeeke diligently for Oxen and Horſe, of a good raſe, but careth not though his wife be ill brought by, and worſe borne, ſo that ſhe be rich enough: But be that is wiſe, will aboue all things haue a ſpeciall regard of the conditions and qualities of his wife, and will note what the life and conuerſation of her parents are, remembring the ſaying, that the Eagle breedeth not the Pidgion, but that alwaies the Cat will after kinde: Yet I will not deny, but that many good and vertuous men haue gotten had and wicked children, and contrari<g ref="char:EOLhyphen"/>wiſe, many wiſe children haue beene begotten by fooliſh fa<g ref="char:EOLhyphen"/>thers, and we dayly ſee and know many very honeſt wo<g ref="char:EOLhyphen"/>men haue diſhoneſt Mariots to their daughters, therefore to conclude, let all men, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine with diſcretion.</p>
+            <p>But now to paſſe further in our diſcourſes, thoſe men whom Nature cauſeth their Children to be fooles, in my Iudgement hapneth not by the birth, but by the bringing vp, the which is the cauſe that many great heads by long practiſe, become readie witted. And other who euer in their cradles are ſound to haue a quick wit, in proceſſe of time, either through idlenes, or gluttony, or ſome ſuch miſ-gouerment, become ſlow and dull headed: Now from that conſideration, I would come to this, that the father, who through much trauell and trouble, both of body and
+<pb facs="tcp:5364:7"/>minde, hath gotten wealth and honour, though be getteth children of great wit, yet he is ſo ouer-gone in latherly affection towards them, that knowing he hath prouided for them ſufficiently to liue by at their caſe, he cannot a<g ref="char:EOLhyphen"/>bide to ſee them trauell and labour as he hath done, ſo that vanquiſhed with a certaine tender effectien, he ſuffereth them to be brought vp dillicately, and wantonly, and is the cauſe, that by this idlenes their naturall force decay<g ref="char:EOLhyphen"/>eth, and by Cuſtome is quite chaunged into an other na<g ref="char:EOLhyphen"/>ture.</p>
+            <p>Conſider this alſo beſides, how that many Children peceiuing and knowing very well, them ſelues to be thus pampred vp by their Parents, keepe them-ſelues ſo much as they way out of the Duſt a Sun: neyther care they for applying their thindes, to any co<g ref="char:cmbAbbrStroke">̄</g>mendable thing, nor for to ſeeke to get any more Riches or ſubſtance, then that which their Parents haue with great diligence formerly proui<g ref="char:EOLhyphen"/>ded for them: but here it may be truely ſaid of them, that they are not vn-like the Crowe who liveth onely by ſuch Fonde as other Beaſtes a Cattle do uſually leane: &amp; ſurely there is no doubt of it, but if that they were meanely lefte by their parents (as many poore mens Children often are) then would they grow to be exceeding prudent &amp; wiſe, and then would they be rich &amp; ſufficiently able to liue in a Com<g ref="char:EOLhyphen"/>mon wealth.</p>
+            <p>We may dayly ſée by experience that for the moſt part, poore mans children become rich by their owne labour and induſtry and rich mens children war poore by their necligence and idlenes: which is ſignified vnto vs by this prouerb or wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>le, ſaying, Riches breeds pride, pride breeds pouertie, pouertie breeds humilitie, humilitie breeds riches, and riches againe brings pride. Therefore the good father muſt be admoniſhed that he truſt not too much in the good<g ref="char:EOLhyphen"/>nes of his nature, that he thinkes that not onely ſuffici<g ref="char:EOLhyphen"/>ent to keepe his children good: But beholding them with
+<pb facs="tcp:5364:7"/>an eye, rather aduiſed then pittifull and fatherly, he muſt ſeeke to better their good nature, in ſtirring them vp to vertuous deeds, for it is not enough to be well borne, but alſo to be well brought vp.</p>
+         </div>
+         <div n="3" type="chapter">
+            <head>CHAP. III.</head>
+            <argument>
+               <p>¶ What great Care a man ovght to haue in the choice of his Wife, &amp; what circumſpection ought to be had therein, likewiſe ſhewing, that many miſchavnces often happen to the Children through the ma<g ref="char:EOLhyphen"/>nyfolde imperfections of the Pa<g ref="char:EOLhyphen"/>rents.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>EARE</hi> will wée now returns againe to our former matter, in the choice of a good Wife, Wée muſt therefore firſt of al, be wel and throughly informed of the modeſt behauiour and of the ho<g ref="char:EOLhyphen"/>neſt caryage of the Mother all her life-time before, in hepe that if the Mother hath alwayes go<g ref="char:EOLhyphen"/>uern her life wel, the daughter will follow hir honeſt ſteps and good Nature, and Condi<g ref="char:EOLhyphen"/>tions: Yet it is not inough for to know the qualities of the mother, but we muſt like wiſe be partly in-ſigted into the Conditions of the Father, for it oftentimes falleth out for, that the Children do (moſt continually) draw ſome imper<g ref="char:EOLhyphen"/>fections from one of them, which the other (doubtles) is clearely voide of.</p>
+            <p>We muſt alſo conſider, that if it be true, that Edu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion will chaunge nature, it is requiſite not onely know whether ones wiſe be borne of good parents, but alſo whe<g ref="char:EOLhyphen"/>ther ſhe haue beene orderly and well brought vp: which
+<pb facs="tcp:5364:8"/>alwaies commeth not to paſſe: for there are ſome who hauing but one Daughter, are ſo blinded with the ex<g ref="char:EOLhyphen"/>treame loue they beare her, that they will not haue her hindred of her will in any thing, but ſuffer her to liue in all wanton pleaſure and dillicaſie, which afterwards is the cauſe of many inconueniences, yet for all that the huſ<g ref="char:EOLhyphen"/>band muſt not be diſcouraged for the too much tendernes of the parents ouer her: For ſhe being yet but young with the helpe of her good Nature, he may caſely, like a ten<g ref="char:EOLhyphen"/>der twigg, make her ſtraight, if ſhe begin to grow croo<g ref="char:EOLhyphen"/>ked, and with graue admonitions reforme her wanton minde: thereby we may gather, that it is better to mar<g ref="char:EOLhyphen"/>ry a young girle, then a maide of ripe yeares who is hard<g ref="char:EOLhyphen"/>ly brought to leaue her olde qualities, and euill trickes, if ſhe haue but once taken any taſte of them in her youth or Childe-hoode.</p>
+            <p>Yet there are ſome that are of a cleane contrary oppini<g ref="char:EOLhyphen"/>on to mine, who holde it better for a man to take a wife which is well in yeares, and of good diſcretion (knowing how to order a houſe in good ſort) then to take one of theſe Infants, newly come from their Mothers pays, whom a man muſt eyther teach himſelfe, or elſe appoynt an other to be a Gouernour in his houſe.</p>
+            <p>Surely ſome woulde thinke that that man who hauing ſuch a wife, ſhould die for very ſhame, eſpecially when a<g ref="char:EOLhyphen"/>ny ſtraungers ſhould come to his houſe, to whom he would willingly giue good entertainment, and then his young wife being a ſottiſh, ſimple Creature, knoweth neyther how to aſke a queſtion, nor how to make an anſwere, nor how in talke to ſhew hir ſelfe a wiſe and gallant wench: there<g ref="char:EOLhyphen"/>fore I thinke (if ſhe be not able to performe that) it were beſt for hir huſband to locke her vp, and ſay that ſhe is ſick in her bed becauſe that ſtraungers may not perceiue her qualities and conditions: which if they ſhould ſee, it would be a great reproach to her.</p>
+         </div>
+         <div n="4" type="chapter">
+            <pb facs="tcp:5364:8"/>
+            <head>CHAP. IIII.</head>
+            <argument>
+               <p>¶ How an vntoward young woman, or a wanton wife may be eaſely gouerned by her husband, if ſhe haue any good nature or modeſtie in her at all, eſpecially if the man himſelfe bee of any reaſo<g ref="char:EOLhyphen"/>nable Gouerment.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>N</hi> mine opinion, I doe fully per<g ref="char:EOLhyphen"/>ſwade my ſelfe, that a man ſhall never finde a young Woman ſoe vn-toward and wanton, but that lining wel and orderly with him, hee will in a ſhort time chaundge her manners, and frame her to his fancy: But touching this poynt, if we do wel conſider how di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere<g ref="char:cmbAbbrStroke">̄</g>t the opinion of many Huſbandes are, and how diuers the Cuſtomes of diuers Countreys are, were ſhall ſtay to long about this matter: For certainly, ſome Huſbandes are ſo kinde-harted, that they wiſh their wiues in any ſort for to giue their Friendes Entertainement when they come to their houſes, they thinking them-Ielus moſt happy to haue wiues that know how to behaue them-ſelues well in that point, and they are glad that the World may knowe, that there ſhineth in their houſe ſoe rare &amp; pretious a pearle and Iewel and one that can performe all things (without tea<g ref="char:EOLhyphen"/>ching) to her owne Comfort, and her Husbandes great content.</p>
+            <p>Now on the other ſide, there are ſome Husbandes that
+<pb facs="tcp:5364:9"/>are of this humor, that they thinke it a great diſhonour vn<g ref="char:EOLhyphen"/>to them, that their wiues ſhould be Skillfull in any thing elſe, but in ſowing, ſpinning, knitting or other ſuch worke as they haue euer bin trayned vp vnto. And if any ſtraun<g ref="char:EOLhyphen"/>ger happen to come to their houſes, they eyther run quick<g ref="char:EOLhyphen"/>ly them-ſelues or elſe ſend ſome of their Seruants, to giue their wiues warning to withdraw themſelues out of ſight, which immediatly they doe, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oe they are faine to bide themſelues in a corner vntill ſuch time as their Gueſts be gone away: Euen no otherwiſe, but as the Chicken doth when he perceiueth the Byte comming, be flyeth amongſt the wordes, or elſe into ſome buſh or hedg to hide himſealfe in, for feare of further daunger that might enſue.</p>
+            <p>I woulde not wiſh any one to diſpute, which of theſe Huſbandes doe beſt. (I meane) Eyther they which ſhew their wiues, or they that ſhut them vp when their Friends come to their houſes.</p>
+            <p>Mary I ſay (in my fooliſh oppinion) that all the Hon<g ref="char:EOLhyphen"/>nour, or all the Blame, that may ariſe eyther way, falleth not vpon the Wiues head, but vpon the Huſbands: But to returne againe to our purpoſe, a very young wife is ea<g ref="char:EOLhyphen"/>ſie to be framed to the pleaſure of her Huſband: And al<g ref="char:EOLhyphen"/>though at ſome times her huſband muſt be faine to be her maſter to direct her: Yet it both him much good to ſee his precepts readily followed, and be is praud that he hath fra<g ref="char:EOLhyphen"/>med her with his owne hand, to his owne hand, and I think it be for nothing elſe, that it is counted a double pains to marry a Widdow, but that ſhe muſt be firſt made to forget the qualities of her firſt Huſband, and then made to daunce after the pipe of the ſecond, which is a thing hard to be done.</p>
+            <p>Me thinkes alſo, that theſe ſecond mariages, haue the taſte of Cole-worts twice ſodden, being ſo much the more hurtfull, if both the partyes haue béene twice maried, and there vpon I am put in minds of a mery tale, that hapned
+<pb facs="tcp:5364:9"/>betwixt two parties being twice maried.</p>
+            <p>There was a huſband, that on a time fell out with his wife, as they ſat at dinner together: the wiſe in deſpight of the huſband gaue halfe the meate that was vpon the table, to a poore man that came to the doore, ſaying, I giue it th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for my firſt huſbands ſake.</p>
+            <p>Now the huſband ſeeing this, tooke the other halfe, and gaue it him alſo: ſaying, I giue thee this for my firſt wiues ſake, and ſo they were faine to dine both with dry bread.</p>
+         </div>
+         <div n="5" type="chapter">
+            <head>CHAP. V.</head>
+            <argument>
+               <p>¶ When a Man or a Woman hath bin once Ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d, and afterwards becommeth a Widdower, or a Widdow againe, what great inconuenience hapneth often to the Children by Step-mothers: eſpe<g ref="char:EOLhyphen"/>cially if that both the Parents, doe not agree well together.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HERE</hi> is as yeat, a farre grea<g ref="char:EOLhyphen"/>ter inconuenience then all this that hath bin heretofore ſpoken of, that is, for that y<g ref="char:cmbAbbrStroke">̄</g> ſecond mar<g ref="char:EOLhyphen"/>ring is oftentimes very preiudi<g ref="char:EOLhyphen"/>ciall a hurtfull to the Children of the firſt marriag, which (as God knoweth) are too often put to tri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Stepmothers Crueine, who receiuing the leaſt diſcontentment (that may bee) at their Huſbands handes, ſoe ſoone as their Backes are turned a<g ref="char:EOLhyphen"/>way, reuendge themſelues vppon their Children, and beat them meſt pittcouſly that cannot doe with-all.</p>
+            <p>Therefore, I thinke, that as it is better for a man to thoſe a young Wife, then one that is yeares, ſo ought be
+<pb facs="tcp:5364:10"/>likewiſe, to marry while hee himſelfe is young and not to ſtay till his Hayres war gray: for being both young, they are the like-lier to haue children, and the like-lyer to liue to ſee the bringing vp of them, and in their olde age, to enioy their ſeruice and comfort: At which time the Chil<g ref="char:EOLhyphen"/>dren may do as mu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d for their Parents, as their Parents die for them before in their youth.</p>
+            <p>But now I muſt needes confeſſe, that all this talke is beſides the matter: for I haue hetherto ſpent the time, in a diſcourſe, which tendeth to no other end, but to teach a man to chooſe a wiſe that is young, well borne, well brought vp, reaſonable rich, indifferent beautifull, of a ſound and good iudgement, and of a good wit and capacitie: But we haue not p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſpoken a worde, of the manner of life betwixt the huſband and the wiſe, as our purpoſe was to doe.</p>
+         </div>
+         <div n="6" type="chapter">
+            <head>CHAP. VI.</head>
+            <argument>
+               <p>¶ Heere followeth the manner of life, that ought to bee obſerued and kept, betwixt Man and Wife: and how a man were better to chooſe a young Wife, then to take one that is aged.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg> THINKE</hi> that to liue kindly with ones wife, it is neceſſarie, that he be well framed to loue her: therefore it is néedefull firſt to learne, to know her good qualities and con<g ref="char:EOLhyphen"/>ditions, and which are the good parts of a woman, whereby men are induced to loue them.</p>
+            <p>Likewiſe it is requiſite for the Father that loueth his Daughter, before he marry her, to ſift throughly the qua<g ref="char:EOLhyphen"/>lities, behauiour, and life of his ſonne in lawe: For it is a true ſaying, that hee which lighteth vpon a good Sonne in Law, getteth a good ſonne, and be that mateth with an ill one, caſteth away his daughter.</p>
+            <pb facs="tcp:5364:10"/>
+            <p> Now the husſband knowing the goodnes of his wife, be<g ref="char:EOLhyphen"/>ing to liue with her, he muſt aboue all things, loue her moſt hartely and vnfaynedly, for ſo the Lawe of God com<g ref="char:EOLhyphen"/>mandeth him For that is the ſtrong foundation, which ſurely vpholdeth Mariage, and that being neclected by the huſband, breedeth him great ſhame and Infamy: For not in louing that, which be hath with care and diligence got<g ref="char:EOLhyphen"/>ten, and once iudged worthy his loue: He manifeſtly ſhew<g ref="char:EOLhyphen"/>eth himſelfe to be vnconſtant and fantaſticall, and that he were better to be matcht with ſame fury of Hell, them with a louing wife, if he be of that condition himſelfe.</p>
+            <p>Therefore the Huſband ought to accompany his loue with &amp; continuall feare, to looſe by his owne fault, the goodwill of his wife, for he cannot giue her a more aſſured ſigne of her boneſt loue, then in behauing himſelfe towards her, in ſuch ſort as he woulde haue her vſe her ſelfe towardes him, which doing, he ſhall be ſure to finde her both kinde and louing vnto him.</p>
+            <p>For let all men be aſſured, that the greateſt part of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he faults committed by wiues in this age, take the beginning from the faults of their huſbands, who for the moſt part re<g ref="char:EOLhyphen"/>quire of their wiues, ſuch an eract obſeruing of the Lawes of Mariage, but they themſelues make no accompt of them.</p>
+            <p>You ſhall ſee ſome huſbands, that both in worde and deed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will vſe ſuch rigor towards their wiues, and vſurpe ſuch ſuperiority ouer them, as is commonly vſed towards <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>auts, and if abroad they by chaunce receiue any iniurie, then their wiues are ſure to go to wracke for it when they come home: ſhe wing themſelues cowards towards others, and goodly men, towards their poore wiues.</p>
+            <p>By reaſon whereof, it is no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aile, it being ouercome with griefe and rage, they call to the diuels to help them: and that at that inſtant, ſome laſciuious mates take occa<g ref="char:EOLhyphen"/>ſion to tempt her, and hope to attaine her, for that ſhee is.
+<pb facs="tcp:5364:11"/>then ready to follow whatſoeuer enuy, wrath and deſpera<g ref="char:EOLhyphen"/>tion, ſhall put into her head.</p>
+            <p>But on the other ſide, when the wife knoweth that all the beames of her huſbands loue, ſayth, and loyalty, ſhine onely vppon her, holding her more deare then all other earthly thinges, you ſhall ſee her conſume cleane away in burning flames of loue and caſt al her care in thinking and doing, that which ſhe knoweth will pleaſe him: And make ſure account, that a friend loueth not ſo well his friend, a brother his brother, or a childe his father, as a wife doth her huſband: whereof there ariſeth on both ſides ſuch aſſu<g ref="char:EOLhyphen"/>rance of truſt, and ſecuritie of minde, as maketh them liue in moſt contented happynes together.</p>
+            <p>But againe, the aſſurance of truſt, and tranquilitie of minde, poſſeſſeth not the harts of all huſbands, for I am fully perſwaded, that there are a number in the World (though they ſet a good face on the matter) which doe in hart miſtruſt their wiues behauiour: this common diſt<g ref="char:EOLhyphen"/>ruſt that men haue of their wiues doth truly proceede from the weakenes of loue, which is uſuall with moſt men.</p>
+            <p>For certainly make this account, that at the gate where ſuſpition commeth in, loue goeth out.</p>
+            <p>But if perchaunce the Huſband haue ſome occaſion gi<g ref="char:EOLhyphen"/>uen him to miſtruſt, let him examine his owne life well, and he ſhall finde how the occaſion came from himſelfe, and that he hath not vſed her, as be ought to haue done: but if he begin to repent himſelfe, and begin once to regard her as the one halfe of himſelfe, he will alſo begin to baniſh ſuſpition, and to thinke that he which loueth, is beloued, and that in mutuall loue, raigneth inviolable ſayth.</p>
+            <p>But yet there is a certeine inward ſpirit telleth me, that this rule before ſpoken of, is rather prayſed then practiſed.</p>
+            <p>For he that would obſerue it, muſt let the Reyne lye too l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe on the womans necke, and muſt referr the care of both their good names, onely to her ſmall diſcretion: which is
+<pb facs="tcp:5364:11"/>not the cuſtome of out country of <hi>England,</hi> where women are looked too with honeſt dilligence: This reaſon bring<g ref="char:EOLhyphen"/>eth an olde ſaying into my minde, which is this.</p>
+            <p>A diſhoneſt woman cannot be kept in, and an honeſt woman ought not: But thoſe men that take vpon them the keeping of their wiues honeſty, doe thinke the world will iudge the better of them for it: for they thinke that men laugh at thoſe huſbands, which giue their wiues the head too much, &amp; they perſwade themſelues, that if they do not keepe their wiues ſhort, they keepe them not as they ought to doe: Beſides, they thinke this with themſelues, that the wife ſeeing the huſband take no care of her, will imagin he doth not care for her making (belike) this recke<g ref="char:EOLhyphen"/>ning, that no man elſe will deſire her.</p>
+         </div>
+         <div n="7" type="chapter">
+            <head>CHAP. VII.</head>
+            <argument>
+               <p>¶ How ſome ſort of men by giuing of their Wiues ouer much liberty, doe perſwade themſelues that that is the next way to make them honeſt.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE</hi> other ſort of men, which willingly giue their wiues their free liberty, perſwade them<g ref="char:EOLhyphen"/>ſelues that that is the next way to keep them honeſt, alledging this reaſon: that the wife ſeeing the huſband make himſelfe maſter of her honour, is diſpleaſed with it, and taketh no more care to keepe it.</p>
+            <p>But when her honour is committed to her owne keeping, ſhe is carefull of it, as of that which is her owne: beſides that we naturelly are deſtrous of the things forbidden, and we know that ſhee <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>neth leſſe, who hath free power to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>na<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. and in troth ſhe is only to be counted houeſt indéede, who hauing liberty to doe amiſſe, doth it not.</p>
+            <p>But now to rid vs out of theſe diuers opinions, I am
+<pb facs="tcp:5364:12"/>purpoſed to goe an another way to worke: For as we ſee oftentimes two porters beare vp together one burthen: ſo the Huſband and Wife being two bodies, ought to vpholde one onely mind and honour: And to beare it vp vprightly: there muſt be kept ſuch an indifferent meaſure, that the one haue no greater charge then the other, but that they is an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ech other of them a iuſt part: taking eſpeciall heede that neither of them draw this way or that way: For if one ſhrinke backe anything, it is enough to lay the cariage in the mire: I ſay then once againe, that there is nothing that maketh a more equall coniunction in good liking, then to ex<g ref="char:EOLhyphen"/>erciſe themſelues in faithfull and feruent loue, which once beginning to faile eyther, on the one ſide, or the other, their honour forth with falleth to the ground.</p>
+            <p>There is not any man of vnderſtanding, but be may ſoon conſider with himſelfe, that there is nothing doth more in venom and inrage the wife, then the diſhoneſt life of her huſband, for keeping no fayth with her, he muſt not looke that ſhe ſhould keepe promiſe with him: For as the ſaying is, he that doth not as he ought, muſt not looke to be done to as he would.</p>
+            <p>And I will ſay vnto you, that in the iudgement of the wife, the adulterer deſerueth ſo much the more grieuious puniſhment: by how much more he ought to ſurmount his wife in vertue, and direct her by his example.</p>
+            <p>Moreouer the huſband muſt conſider what his authori<g ref="char:EOLhyphen"/>tie is, and how farr it reacheth ouer his Wife: For ſome men keepe their wiues in ſuch awe, that they obey them not as their Lord and Maiſter, but as a Tyrant: ſo that conuerting Loue into Feary, they make the poore women weary of their liues, and deſtrous of death.</p>
+            <p>After which ill vſage, not without iuſt cauſe they vere<g ref="char:EOLhyphen"/>fie the prouerbe: When their huſband goeth about to make earth of them they goe about to make fleſh without him: For the huſband muſt not perſwade himſelfe that he is a<g ref="char:EOLhyphen"/>boue
+<pb facs="tcp:5364:12"/>his wife as the Prince ouer his ſubiects, or the Shep<g ref="char:EOLhyphen"/>heard ouer his ſheepe, but as the mind ouer the body, which are linked together by a certaine naturall amitie: But rather wée muſt conſider, that man was not made of the woman, but the woman of the man, and was taken, not out of the head, that ſhe ſhould beare rule ouer man, nor out of the feete, that ſhe ſhould be troden downe by him, but out of the ſide, where is the ſeate of the heart, to the end he ſhould loue her hartely, and as his owne ſelfe.</p>
+         </div>
+         <div n="8" type="chapter">
+            <head>CHAP. VIII.</head>
+            <argument>
+               <p>¶ Of the great care that euery Husband ought to haue, for the keeping and maintayning of his Wife, whereby that through want. ſhe be not driuen to alter her manners and conditions.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE</hi> Huſband likewiſe muſt prouide to ſatiſ<g ref="char:EOLhyphen"/>fie, the honeſt deſtres of his Wife, ſo that neyther by neceſſuſe, nor ſuper fluitie, ſhe be prouoked to diſhoneſty: and he muſt remem<g ref="char:EOLhyphen"/>ber that eaſe, and diſeaſe, make women of<g ref="char:EOLhyphen"/>tentimes vnchaſt: And for as much as many learned wri<g ref="char:EOLhyphen"/>ters haue ſet downe, the behauiour of the huſband towards the Wife, it ſhall ſuffice to ſay, that he muſt account of his Wife as his onely treaſure on earth: and the moſt pre<g ref="char:EOLhyphen"/>tious Iewell he hath in the world.</p>
+            <p>Therefore he muſt take heede; that by his fault the price of her, fall not, be muſt alſo remember, that there is no<g ref="char:EOLhyphen"/>thing more due to the wife, then the faithfull, honeſt, and louing company of her huſband.</p>
+            <p>He muſt alſo vouchſafe, in figne of loue to deliuer vnto her his thoughts and ſecret councels for many haue found much profit in following their wiues councell: yea a man is happy that hath a louing wife to impart his good fortune
+<pb facs="tcp:5364:13"/>vnto, whoſe hartie reioycing at it, re-doubleſh his ioy: And if he diſcloſe any ill hap vnto her, ſhe lighteneth his griefe, eyther by comforting him louingly, or by helping to beare a part of it patiently.</p>
+            <p>Now if the huſband, chaunce to eſpy any fault in his wife, eyther in words, geſture, or doings, he muſt re<g ref="char:EOLhyphen"/>prehend her, not reproachfully nor angerly, but as one that is carefull of her honeſty, and what opinion others carry of her, and this muſt alwayes be done ſecretly be<g ref="char:EOLhyphen"/>tweene themſelues, remembring the ſaying, that a man muſt neyther chide, nor play with his wife, in the preſence of others: for the one bewrapeth her imperfections, and the other his folly.</p>
+            <p>For as dallying in open Aſſemblies, is to be miſliked: So is not a ſowre frowning countenance to be liked: For it maketh others to pitty her hard life, that ſhee leadeth with him.</p>
+            <p>Therefore, I would alwaies haue them ſhew them<g ref="char:EOLhyphen"/>ſelues to their wiues, both in ſpeach and countenance, gentle and a miable not making a ieſt at that reaſon which is alledged by her, although ſometimes, it be cleane con<g ref="char:EOLhyphen"/>trary to his minde.</p>
+            <p>Thus much haue I ſpoken touching the huſband, now will I ſpeake of the charge of the wife: To begin where as Bods Lawe commaundeth the wife, not onely to loue her huſband, but beſides to be ſubiect and obedient to him: And therefore they muſt be put in minde that the ſage ma<g ref="char:EOLhyphen"/>tron Sara, called her huſband Lord and Maſter.</p>
+         </div>
+         <div n="9" type="chapter">
+            <pb facs="tcp:5364:13"/>
+            <head>CHAP. IX.</head>
+            <argument>
+               <p>¶ Herein is ſhewed the loue and obedience of the Wife to<g ref="char:EOLhyphen"/>wardes her Husband, and how that a woman that regardeth her owne credit, ought to refuſe the company of a woman that hath an ill name, or deſerueth any cauſe of ſuſpition.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">B</seg>VT</hi> now me thinkes I heare ſome ſay, that thoſe wiues haue good hap, whoſe huſbands are obedient to them, ſubmit<g ref="char:EOLhyphen"/>ting themſelues to their wiues com<g ref="char:EOLhyphen"/>mandement.</p>
+            <p>I terme that rather miſhapp then ill lucke, for that ſuch huſbands for the moſt part, are fooles, doults, aſſes, beaſtes, and are commonly termed wittoles, that they beléeue ſo well, that they make it an ill conſcience to miſtruſt any ill though they ſee an other and their wife in bed together, whereof it commeth often to paſſe, that their ſilly wiues are like a body without a head, and ſuffer themſelues to goe aſtray.</p>
+            <p>And though they be of good diſcretion and vnderſtanding yet the world maketh no account of them: whereas con<g ref="char:EOLhyphen"/>trary wiſe, the wiſe dome, valure and authoritie of the huſ<g ref="char:EOLhyphen"/>band, ſcrueth as a buckler, to defend the good name of his wife, who thereby is bad in more reputation.</p>
+            <p>Yet we ſee that women are glad to meate with huſbands that are gentle natured, and a little fooliſh, that they may keepe them vnder.</p>
+            <p>But in my opinion, thoſe which had rather command
+<pb facs="tcp:5364:14"/>ouer fooles, then obey the wiſe, the like to thoſe that had rather leade a blind man in the way, then follow another hauing his perfect ſight, and knoweth the direct way they muſt take.</p>
+            <p>But ſuch wiues neede not make boaſt of their ſufficien<g ref="char:EOLhyphen"/>tis: For at this day the rate of the certaine women are worne out: and therefore it is beſt for them to be content to let their huſbands weare the brecches.</p>
+            <p>A man may well giue women this good Counſell, but there be fewe of them that will be ſo good as follow it: and which ſeeke not ſtill to beare rule ouer their huſbands.</p>
+            <p>It is a thing reaſonable and agreeable to nature, that the ſtronger ſhould commaund ouer the weaker: yet ſome women haue the right quality to order things ſo well that their huſbands ſhould be thought to wrong them greatly, if they ſhould finde fault with them.</p>
+            <p>Where vpon Cato was wont to ſay to the <hi>Romans:</hi> we commaund ouer all the world, and wiues commaund ouer vs: and ſurely there is no doubt, but that many rulers and gouernours of Citties and Countryes, are ouer-ruled by their wiues: But as thoſe women know how in time and place to be obedient to their huſbands: So there are ſome ſuch ſhameles women, that they will not at any time be commanded, but by their exclamations, ſcolding and braw<g ref="char:EOLhyphen"/>ling, continually: alwayes with-ſtanding their huſbands wils, and make a mock at them, playing with them a thou<g ref="char:EOLhyphen"/>ſand ſhrewd prankes, which cauſed a certaine King to ſay that they were very fooles, that would follow their wiues running away.</p>
+            <p>This ſaying puts me in minde of a mery Ieſt of a huſ<g ref="char:EOLhyphen"/>band, who, his wife hauing drowned herſelfe in a Riuer, went crying along the Riuer ſide, ſeeking her againſt the ſtreame: and being tolde that there was no queſtion, but that ſhe was gone downe with the ſtreame. Alas ſaith he. I cannot thinke it, for as in her life time ſhe vſed to do eue<g ref="char:EOLhyphen"/>ry
+<pb facs="tcp:5364:14"/>thing againſt the hayre, ſo now in her death ſhe is ſure<g ref="char:EOLhyphen"/>ly mounted againſt the ſtreame.</p>
+            <p>But to returne againe to our purpoſe, I will ſay that the wife as the weaker veſſel, muſt obey the huſband, and as men ought to keepe the Lawes of the country: So wo<g ref="char:EOLhyphen"/>men ought to fulfill the co<g ref="char:cmbAbbrStroke">̄</g>mandements of their huſbands, by which deede they become Miſtreſſes of the houſe.</p>
+            <p>I could here bring in diuers vertuous women, who clo<g ref="char:EOLhyphen"/>thing themſelus with humility, haue cauſed their huſbands to caſt of pride, cruelty, and other wicked vices: whereby ſome haue pardoned their enemies, and drawne backe their hands from doing vengeance.</p>
+            <p>Other ſome haue vndone vnlawfull bargaines, leſt ſwea<g ref="char:EOLhyphen"/>ring, and other vanities: and giuen themſelues to deuo<g ref="char:EOLhyphen"/>tion, and the health of their ſoules, they being brought therevnto by the honeſt and earneſt perſwaſions and in<g ref="char:EOLhyphen"/>treatie of their wiues.</p>
+            <p>But in an other ſort, now if the woman ſée her huſband faile in the loue, which he oweth her, yet ſhe muſt not do as he doth, but ſupply vertuouſly his default: ſhewing to the worlde, that for her part, ſhe beareth the croſſe her ſelfe, which doing ſhe ſhall haue double rewad of God, &amp; double praiſe of the world: wherby you may gather that the breach of honour is committed more to the diligence and truſt of the wife, then of the huſband, and though the huſband offend God as muth as the wife, in violating the ſacred band of Matrimony: Yet the wife ought firmely to print this in her hart, and to remember alwaies, that where the huſband by his fault doth but a little blemiſh his credit, the wife altoge<g ref="char:EOLhyphen"/>ther looſeth her good name, and remaineth ſpotted with ſuch infamy, that ſhe can neuer recouer her honour againe: nei<g ref="char:EOLhyphen"/>ther by any repentance, nor by amendment of her life.</p>
+            <p>Therefore let a wife woman ſiop her eares againſt the alurements of thoſe which lye in waight for her chaſti<g ref="char:EOLhyphen"/>tie: and to kéept more ſafely her honeſtie both in deede
+<pb facs="tcp:5364:15"/>and in worde.</p>
+            <p>Likewiſe let her avoide ſo much as ſhe may, the com<g ref="char:EOLhyphen"/>pany of women that haue an ill name: who indeauor by their naughty faſhions, and diſhoneſt ſpeeches, to bring others to doe as they doe: and wiſh with all their harts that all women were like themſelues.</p>
+            <p>But the wife muſt alſo know, that it is not ſufficient to be boneſt, and innocent in deede: but like wiſe to au<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de all ſuſpition of diſhoneſty, and if ſhee looke well into the matter, ſhee ſhall finde ſmall difference (in reſpect of the world) betweene beeing naught, and beeing thought naught.</p>
+            <p>Therefore a wiſe woman will ſhun all lightnes and va<g ref="char:EOLhyphen"/>nity, and keepe her ſelfe from giuing her huſband, or any other, the leaſt ſuſpition in the world, knowing that a woman of a ſuſpected Chaſtitie, liueth but in a miſerable caſe, and when ſhee heareth other women ill ſpoken of, let her thinke in her minde, what may be ſpoken of her, imagining with her ſelfe; that when a woman is once in an ill name, whether it be deſeruedly, or without cauſe, ſhe hath much adoe to recouer againe her honour: ſhee muſt not beare her ſelfe, ſo boldy vpon her honeſt mea<g ref="char:EOLhyphen"/>ning, to thinke that God will alwayes holde his hand ouer her head: For he oftentimes ſuffereth a woman to be reproued wrongfully, for a puniſhment of her light<g ref="char:EOLhyphen"/>nes and vanity: For it is as common a matter for wo<g ref="char:EOLhyphen"/>men to ſhew themſelues vaine and light, as for peacocks to ſpread their tayles.</p>
+            <p>Wherefore I may boldely ſay this, when wee haue once taken all vanity from a woman, a man ſhall be able to take nothing elſe from her.</p>
+         </div>
+         <div n="10" type="chapter">
+            <pb facs="tcp:5364:15"/>
+            <head>CHAP. X.</head>
+            <argument>
+               <p>¶ An admonition to the wiſe and diſcreet woman, how te gouerne her ſelfe: ſhewing, that chaſtitie ioyned with vanity, deſerueth no commendations at all. And how many women giue occaſion to be ill thought of, for theſe fower cauſes fol<g ref="char:EOLhyphen"/>lowing. <hi>(Viz)</hi> Deedes, Lookes, Wordes and Apparell.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>EE</hi> will briefely comprehend the ſumme of that we haue ſaid and ad<g ref="char:EOLhyphen"/>moniſh the wife, that Chaſtity ioy<g ref="char:EOLhyphen"/>ned with vanity, deſerueth no com<g ref="char:EOLhyphen"/>mendations at all, but rather yeth open to the ſaying of King <hi>Deme<g ref="char:EOLhyphen"/>trius:</hi> who hearing a man finde fault with one of bis Concubines. ſaid vnto him: My Concubine is far more modeſt, then thy Wiſe: Therefore a woman muſt take beede, that ſhe giue not men occaſion to thinke hardly of her, ryther by her Deedes, Words, Lookes or Apparell.</p>
+            <p>The mention of this Apparell, now ſo imboldens me, that I cannot chooſe, but ſpeake of the abuſe which is com<g ref="char:EOLhyphen"/>mitted now a dayes in our country in the ornaments and trimming vp of women, who beſtow vpon garments all their huſbands ſubſtance: and in garding and trimming of them, all the Dowry which they brough with them, which maketh me amazed at it: and that which greaueth
+<pb facs="tcp:5364:16"/>me moſt is to ſée howe Huſbands not onely conſent to ſuch exceſſe charge, but alſo are pleaſed well with the va<g ref="char:EOLhyphen"/>nitie which their wiues ſhew in the Strumpet-like dreſ<g ref="char:EOLhyphen"/>ſing of their heads, whereby they make men rather laugh at them, then like of them: and I ſee not how it is poſ<g ref="char:EOLhyphen"/>ible for men, to maintayne their Wiues in ſuch coſtly manner, as they doe now a dayes in England: But that they muſt let out their mony to Vſurie, and vſe other de<g ref="char:EOLhyphen"/>ceiptfull words and meanes.</p>
+            <p>I will not ſay they keepe their wiues ſo brane by ſecret couſening and cut-throate bargaines: And that other<g ref="char:EOLhyphen"/>wiſe they liue poorely, and fare hardly, purging the ſinne of pride, with the abſtinencie of the mouth making their ſeruantes dye with Hunger: though women be very curious in their attyre: Yet it is the hayre that they make moſt adoe about, and there are no ſorts of Oynt<g ref="char:EOLhyphen"/>ments which they will not proue, to make their hayre of the braueſt cullour, in ſo much that many in going about to alter the the cullour of their hayre, by naughty medi<g ref="char:EOLhyphen"/>cines, haue wrought their owne deaths: But their fol<g ref="char:EOLhyphen"/>ly this day is ſo great, that by meanes of ſuch trumpery, when they feele their heads little ake, and their braynes to be a little diſtempered: yet as murtherers of them<g ref="char:EOLhyphen"/>ſelues, they will not giue ouer this ſhamefull and deadly practiſe.</p>
+            <p>But if they knew wherein conſiſted the commendation of women, they would ſit vp moſt part of the night, and riſe betime in the morning, to beſtow all the fore-noone in dreſſing of their heads and if they would conſider with themſelues, that thoſe which trim vp themſelues leaſt are trimmed vp beſt.</p>
+            <p>I haue b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne alwayes of this minde, that thoſe wo<g ref="char:EOLhyphen"/>men whoſe mindes are not decked with vertue, are theſe which labour aboue others in decking vp their Bodyes, thinking belike to haue as good lucke as the Lapwing, who
+<pb facs="tcp:5364:16"/>though he be but a vile Byrde, and liveth moſt in durty lakes, and deſert places: yet at the mariage of the Eagle, ſhe was honorable aboue all other byrdes, becauſe of the crowne or cap vpon her head, and of her pyed feathers.</p>
+            <p>But it happeneth to women oftentimes cleane contra<g ref="char:EOLhyphen"/>ry: For the multitude of ornaments conereth that little good which is in them by Nature: and the gliſtering of their Iewels, dimmeth the ſhining of their vertues: and it is commonly ſeene, that women, though neuer ſo honeſt, are vnſatiable of ſuch triffles: wherevpon it is ſayd that mills and women, euer want ſomething.</p>
+            <p>But it honeſt women would aduiſedly thinke of the matter, they ſhould perceiue that it is not the gilt brydle, that maketh the horſe the better, and that by reaſon of thoſe affected follyes, they liue with ſuſpected honeſty.</p>
+            <p>Let women therefore be carefull, to apparell them<g ref="char:EOLhyphen"/>ſelues ſo modeſtly, that they may thereby rather pleaſe their Huſbands, then make them Iealous ouer them, by attyring themſelues lightly: For men will alway ſuppoſe that a light minde is lodged in a gorgeous body.</p>
+            <p>I haue often noted thoſe dames, which are ſo curious in their attyre, to be very ſluts in their houſes, and thoſe which neglect ſuch folly, to be very good huſwiues: For it is a common ſaying, that one cannot drinke and whiſtle altogither: and therefore it is no mar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aile, if thoſe which ſpend all the day in tricking their bodyes, haue no leaſure to ſée their houſe well ordered: But let vs make an end of this matter, concluding that it may rightly be ſaid of theſe coſtly clad carkaſſes, that the feathers are more worth then the Byrde.</p>
+         </div>
+         <div n="11" type="chapter">
+            <pb facs="tcp:5364:17"/>
+            <head>CHAP. XI.</head>
+            <argument>
+               <p>¶ How a woman ought not (as neere as ſhee can) giue any occaſion to her husband, to prouoke him to anger, neyther ought ſhe to be Iealous of him without great cauſe of deſert, ſhewing alſo that it is better for her to couer his faults then to diſcloſe them.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Will make ſhort and giue charge to the wife, not onely to avoyde that which may anger her huſband, but alſo to frame her ſelfe to do that which may pleaſe him, for as the glaſſe is nothing worth which ma<g ref="char:EOLhyphen"/>keth a ſad countenance ſéeme ioy<g ref="char:EOLhyphen"/>full, or a ioyfull countenance ſéeme ſad: So that woman in my con<g ref="char:EOLhyphen"/>ceipt is a foole, who ſeeing her huſband mery, frowneth or lowreth vpon him, or ſeeing him penſiue, ſheweth her ſelfe pleaſant, and therefore let her be reſolued to frame her ſelfe to the thoughts of her huſband, and to iudge things ſwéet, or ſower according to his taſte.</p>
+            <p>For the diuerſity of minds and manners, is nothing fit to maintaine loue and good will.</p>
+            <p>Let her alſo by ſweet words, and louing deeds, ſhew vnto him all the ſignes of affection ſhe can: Conſidering that ſome huſbands hauing beene accuſtomed to the Amo<g ref="char:EOLhyphen"/>rous curteſies of other women, wil thinke that their wiues ſet no great ſtore by them, if they ſhew them not the like
+<pb facs="tcp:5364:17"/>or greater.</p>
+            <p>And in any wiſe let her continue her kindnes towards him, leaſt by fayling of her wont, ſhe ſeeme to war colde in loue, or by excéeding her cuſtome ſhee ſéeme to cullour ſome crime, whereby ſhe may driue ſome fooliſh toy in<g ref="char:EOLhyphen"/>to his head, which Iealouſie, if by chaunce he be once poſſeſt withall, ſhe muſt labour, by all meanes poſſible to rid him of it. Not doing as ſome fooliſh women doe, who very vn-wiſely, and to their owne great hurt, ſéeke to con<g ref="char:EOLhyphen"/>tinue that ſuſpition in their huſbands, that others laye ſtedge to their owne chaſtitie.</p>
+            <p>But now me thinkes I beare ſome aſke me this que<g ref="char:EOLhyphen"/>ſtion, whether thoſe women doe well who make their huſ<g ref="char:EOLhyphen"/>bands priny to it when they are importuned with any vn<g ref="char:EOLhyphen"/>lawfull requeſt.</p>
+            <p>But thoſe women in my oppinion are commonly bla<g ref="char:EOLhyphen"/>med, for that there commeth much harme by it, and I thinke it ill done: for thereby ſhe doth not breed quiet, but trouble to her huſband, making them doubt, leaſt reuea<g ref="char:EOLhyphen"/>ling one loue, ſhe conceale an other: and which is worſe it breedeth a quarell betwéene the huſband and louer, where<g ref="char:EOLhyphen"/>of much miſchiefe may enſue.</p>
+            <p>But a wiſe woman will alwayes like better that her huſband ſhould heare by the report of others: of the repuiſe which ſhe ſhall giue her louer, then to make boaſt of her honeſty her ſelfe</p>
+            <p>And a wiſe huſband will holde himſelfe there with the better content, and be the more aſſured in his minde of his wiues honeſt dealing: but to preuent all miſtruſt, it beho<g ref="char:EOLhyphen"/>ueth an honeſt woman, to ſhe in her ſelfe ſo ſober and chaſt in countenance, that no man may be ſo hardy to aſſayle her.</p>
+            <p>For indéede Caſtles that come to Parly, are common<g ref="char:EOLhyphen"/>ly at the poynt to render, but it ſhe chaunce to be ſet vpon, let her make this anſwere, which once a vertuous damſell
+<pb facs="tcp:5364:18"/>made vnto her louer, that was this.</p>
+            <p>While I was a maide, I was at the diſpoſition of my parents, but now I am a woman maried I ſtand at the pleaſure of my huſband: wherefore I were beſt to ſpeake to him, and know his minde what I ſhall doe.</p>
+            <p>And if her huſband be out of the way, let her behaue her ſelfe as if he were preſent, and to ſhew him at his re<g ref="char:EOLhyphen"/>turne, in what profitable worke of the houſe ſhe hath ſpent her time in his abſence, whereby ſhe ſhall be both the bet<g ref="char:EOLhyphen"/>ter liked of, and more commended of him.</p>
+            <p>A wiſe huſband in deede will take great pleaſure in ſuch things, but yet there are ſome men that are ſo teſty and froward, that they will neuer be content with any thing their wiues can doe: but doe moſt commonly ſo take on with them, that they make them wiſh themſelues out of the world, therefore I will teach thoſe poore ſoules ſome remedy againſt that miſchiefe.</p>
+            <p>If her huſband be rough and terrible vnto her, ſhe muſt ouercome him by humilitie.</p>
+            <p>If he chide and brawle with her, ſhee muſt holde her peace for the anſwere of a wiſe woman is ſilence, and ſhe muſt ſtay to vtter her minde, till be be appeaſed; if he be obſtinate, let not her be ouer t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wart, nor doe as the wo<g ref="char:EOLhyphen"/>man did, to whom her huſband brought for their ſupper two Thruſhes: but ſhee would needed ſay that they were Black-byrds, he replying apaine that they were thruſhes: and the holding that they were Black-byrds, he in his an<g ref="char:EOLhyphen"/>ger gaue her a bor on the oare, and yet for all that, when the Thruſhes were ſerued to the table, ſhe termed them Black-byrds, wherevpon her huſband fell to beating her againe: A weeke after ſhe put him in minde againe of the Black-birds continuing in her obſtinacie, till he fell to his olde remedy: But this matter ended not thus, for at the yeares end, ſhe hit him in the teeth, how he had beate her for two Black-byrdes, and hee ſaid it was for two
+<pb facs="tcp:5364:18"/>Thruſhes, but ſhe ſaid he was deceaued, and ſo was well beaten for it againe: But to returne againe to our pur<g ref="char:EOLhyphen"/>poſe, I will ſet downe a fewe more admonitions for the wife, how ſhe may continue in loue and goodwill with her huſband.</p>
+         </div>
+         <div n="12" type="chapter">
+            <head>CHAP. XII. </head>
+            <argument>
+               <p>¶ Hereafter followeth certaine Admoniſhions how the wife may continue, her loue and good will towards her husband.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>
+               </hi> Woman cannot poſſible doe any thing that may make her Huſ<g ref="char:EOLhyphen"/>band more in loue with her, then to play the good Huſwife in her houſe: For it not onely doth him good to ſee his wife ſo thriftily gi<g ref="char:EOLhyphen"/>uen; but beſides hee conceaueth a good oppinion of her honeſtie, ſeeing her take ſuch great paines, and exerciſe her body in workes belonging to her houſe, whereby ſhe getteth a naturall coullour, and that vertu<g ref="char:EOLhyphen"/>ous vermillion, which falleth of neither with ſweating, neither with wéeping, nor with blowing, nor with wiſe<g ref="char:EOLhyphen"/>ing: which maketh him deny her no neceſſary thing be<g ref="char:EOLhyphen"/>longing to the houſe.</p>
+            <p>Alſo when he ſéeth her ſo carefull to kéepe them in good order which is not the faſhion of thoſe light <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſwiuen, that liue without doing any thing, without caring for huſband, children, or any other houſhould buſines: ſhe wing mani<g ref="char:EOLhyphen"/>feſtly that though her body be in the houſe, yet her minde is abroad, which foundeth to her owne ſhame, and the huſ<g ref="char:EOLhyphen"/>bands great diſprofit.</p>
+            <p>For it is well knowne, when the Miſtris is buiſied in
+<pb facs="tcp:5364:19"/>vanities, the ſeruants take litle care of her profit, but looke to their owne matter, as the common ſaying is, while the miſtreſſe playeth, the maide ſtrayeth, and as the Wife ought buſily to looke about her houſe, ſo it is vnſeemely for the huſband to meddle with matters within doores.</p>
+            <p>But if his hap be ſo ill to haue a fooliſh wife, then it ſtan<g ref="char:EOLhyphen"/>deth him vpon to ſupply her imperfections.</p>
+            <p>But thoſe men are to be laughed at, who hauing wiſe and ſufficient wiues, will (as they ſay) ſet their Hens to brood, ſeaſon the pot, dreſſe their owne meate, teach the Chamber-maides, and take their wiues office from her: ſuch huſbands offend their wiues much, ſhewing thereby that either they miſtruſt them, or deſpiſe them.</p>
+            <p>Beſides that they doe much wrong to themſelues, and ſhew thereby their want of humanitie for if they were im<g ref="char:EOLhyphen"/>ploid abroad in matters of importance, belonging to men of diſcretion, they would (being at home) be now deſirous rather to take their eaſe, then trouble their wife and ſer<g ref="char:EOLhyphen"/>uants in medling with their matters.</p>
+            <p>Furthermore, they woulde conſider with themſelues, that the rule of the houſe belongeth to the wife, and that God hath mate women more fearefull then men, to the end they ſhould be more fit for the wary matching and kee<g ref="char:EOLhyphen"/>ping of the houſe, wherevnto a carefull feare oftentimes is requiſite: I deny not but the huſband ought to know how matters goe in his houſe, to prouide abroad for things accordingly, and now &amp; then to correct ſome faults which his wife perchaunce eyther will not, or cannot.</p>
+            <p>But it is great reaſon that ſhe beeing as it were, the ſterne of the houſe) the huſband ſhould commit vnto her the whole gouerment of it, as a thing belonging vnto her.</p>
+            <p>For the reſt you muſt know, that as in aduerſitie and trouble true friends are knowne: ſo the wife cannot by a<g ref="char:EOLhyphen"/>ny meanes more ſurely binde the goodwill of her huſband to her for euer: Then by ſticking to him faithfully in his
+<pb facs="tcp:5364:19"/>néede and aduerſitie, which ſome women do not, who will gladly be partakers of the proſperity of their huſbands, but will not willingly take part of their troubles: Forgetting the example of the fayre and wiſe wife of <hi>Methridates,</hi> who for her huſbands ſake, cauſed her head to be paled, and fra<g ref="char:EOLhyphen"/>med her ſelfe to ride, and weare armour like a man, and ſo accompanied him valiantly, faithfully, and patiently, in all his troubles and perils, which gaue her huſband won<g ref="char:EOLhyphen"/>derfull comfort in his aduerſity, and let the world to vnder<g ref="char:EOLhyphen"/>ſtand, that there is nothing ſo troubleſome and gréeuious, but that the two harts of the huſband and wife faſt linked together, are able to ſupport it, and to paſſe all griefe and annoy away.</p>
+            <p>Therefore when the husbands are afflicted with any in<g ref="char:EOLhyphen"/>firmitie, eyther of body or minde, let the wiues be ready both in worde and deede to comfort them, whereby they ſhall ſee their loue will grow more feruent and faithfull: But now for concluſion, the huſband and wife muſt count all things common betweene them, hauing nothing of their owne in perticuler, no not ſo much as the body it ſelfe, and laying aſide pride, they moſt ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>refully ſet their hands to thoſe things that are to be done about the houſe, belonging to their calling, and to ſtriue in well doing, one to ouer<g ref="char:EOLhyphen"/>come an other: whereof will grow ſuch contented quiet<g ref="char:EOLhyphen"/>nes as happily prolong their liues to olde age: And by the bonde of loue and concord, they ſhall giue their children an example, to liue in vnitie one with an other, and their ſer<g ref="char:EOLhyphen"/>uants to agree together in their buſines, and diſcharge of their duties.</p>
+         </div>
+         <div n="13" type="chapter">
+            <pb facs="tcp:5364:20"/>
+            <head>CHAP. XIII.</head>
+            <argument>
+               <p>¶ Of the conuerſation of Parents towards their Chil<g ref="char:EOLhyphen"/>dren. And of the diſagreements that oftentimes happen betwixt the Father and the Sonne.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">F</seg>OR AS MVCH</hi> now as I haue made mention of Children and youth, I thinke it fit that from dence forth, according to my de<g ref="char:EOLhyphen"/>termination, to ſpeake of the con<g ref="char:EOLhyphen"/>uerſation that ought to bee be<g ref="char:EOLhyphen"/>tweene the Parents and the Chil<g ref="char:EOLhyphen"/>dren: For I thinke it a matter very expedient to be ſet downe, the ordere which they ought to obſerue togither, for that euen amongſt them, there is not for the moſt part I found that good agreement, and that diſcréet dealing which ought to be.</p>
+            <p>For the world is now come to this paſſe, that the child is no ſooner come to any vnderſtanding, but that he begin<g ref="char:EOLhyphen"/>neth to caſt in his head of his fathers death: as a litle child riding on a time behinde his father, ſaid ſimply vnto him: Father when you are dead, I ſhall ride in the ſaddle, Yea there are many great and knauiſh children, which wiſh and worke the death of their fathers.</p>
+            <p>The ſault whereof I know not to whom I ſhoulde impute it, whether to the fathers, which kéepe not their children in ſuch awe, neyther bring them vp in ſuch ſort
+<pb facs="tcp:5364:20"/>as they ought to doe, or to the children who know not how much they are beholding to their fathers: But in my mind I conclude that the childe rather is to be in the fault, who cannot bring any action againſt his father, though he doe him neuer ſo great wrong.</p>
+            <p>Firſt of all therefore will I begin to excuſe the father whom ſome will thinke to be in fault, who ought to haue informed him in his dutie, when he was young and ten<g ref="char:EOLhyphen"/>der.</p>
+            <p>If the father giue his ſonne good leſſons, and he wil not hearken vnto them, what can he doe more.</p>
+            <p>If the father offereth Inſtructions to his child with his right hand, and the childe receyueth them with the left, what fault is the father in? None but this in my opinion) but that he deferreth till euening, to giue him thoſe In<g ref="char:EOLhyphen"/>ſtructions which hee ſhoulde haue giuen him early in the morning, at the ſunne riſing, I meane whilſt he is young euen as it were with the milke of the nurſe, not conſide<g ref="char:EOLhyphen"/>ring that in tender mindes, as it were in war, a man may make what impreſſion he lift.</p>
+            <p>But I know not how to excuſe the children, who after their father hath nouriſhed and brought them vp carefully vnder the learned men, and inſtructed them in the faith of Chriſt: in the end run aſtray, liuing lewdly, bring forth fruit vnworthy their bringing vp.</p>
+            <p>I matualle not ſo much, that a child vertuouſly brought vp ſometime falleth out naught, but I count it ſtraunge and as it were againſt nature, that both the father and the ſonne, being both honeſt men, and for their good dea<g ref="char:EOLhyphen"/>ling well ſpoken of by all men, it ſhoulde often fall out that they cannot agree together in one houſe, but liue in continuall ſtrict and variance, and agreeing well in pub<g ref="char:EOLhyphen"/>like aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yres, ſtill diſagree about houſhold matters, where<g ref="char:EOLhyphen"/>of I could bring forth many examples.</p>
+            <p>But this I muſt ſay, that the ſonne in duty ought to ſuffer
+<pb facs="tcp:5364:21"/>his father to commaund ouer him, and that he ought to o<g ref="char:EOLhyphen"/>bay him, without any reſiſtance: And that their conuerſa<g ref="char:EOLhyphen"/>tion may frame the better: I thinke it neceſſarie to coun<g ref="char:EOLhyphen"/>ſell the father, how he ought to proceede in his fatherly iu<g ref="char:EOLhyphen"/>riſdiction, that he exceede not the bonds of reaſon, and giue not his ſonne cauſe to finde fault with him, in his hart, and to thinke himſelfe ill dealt withall by him: by meanes whereof, he waxeth colde in the loue and reuerence, he ought to beare to his father.</p>
+            <p>I cannot forget the olde ſaying, that few children are like the father, and that many of them are worſe, and thoſe that are better, are very rare and thin ſowen: there<g ref="char:EOLhyphen"/>fore I would willingly ſearch out the cauſe, why ſo few Children reſemble the Father, and anſwere to the hope he conceaueth of them.</p>
+         </div>
+         <div n="14" type="chapter">
+            <head>CHAP. XIIII.</head>
+            <argument>
+               <p>¶ Of the great diſcomfort that Children many tymes bring to their Parents, through their miſ-deameanor to<g ref="char:EOLhyphen"/>wards their parents: And of the euill ſucceſſe that oftentymes hapneth thereby.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">F</seg>IRST</hi> it is to be conſidered that Children bring ſmall or no com<g ref="char:EOLhyphen"/>fort to their Parents, if Nature and Fortune be not well temperd in them: For as a fruitful graine ſowen in a ſoyle vnfit for it, bring<g ref="char:EOLhyphen"/>eth foorth no increaſe: So a child that is naturally giuen to lear<g ref="char:EOLhyphen"/>ning, will neuer doe well, if be be fet to huſbandry: ſo much it behooueth the father to find out in his Childe-hood, wherevnto he is moſt inclined.</p>
+            <p>Therefore it behooueth fathers to vſe diſcretion in this
+<pb facs="tcp:5364:21"/>poynt, that is to finde out the naturall inclination of their children, the which is beſt done in their Infancy, as the prouerbe is, that by the morning it may be gathered, how all the day will proue after, whether it will be eyther faire or foule.</p>
+            <p>I thinke this counſell moſt neceſſary to be reſpected by the fathers, who force their Children to enter into trade of life, which is altogether contrary to their mindes, and therefore no maruaile though they receiue ſmall comfort of them: For thereof many times inſueth the diſhonor of their houſe, and which is worſe great offence towardes God, as when poore boyes are put to ſtudy diuinitie, who euen from their mothers wombe deſire the warres.</p>
+            <p>Thoſe fathers that ſet their children to things contrary to their diſpoſition, are rather to be pittied then blamed: for that happeneth commonly for lacke of taking hade, but thoſe which thruſt their children into Colledges be<g ref="char:EOLhyphen"/>fore they are of yeares, to chooſe or refuſe that life: Are no doubt greatly to be blamed for that they bring their children too it, eyther through feare, or through falſe per<g ref="char:EOLhyphen"/>ſwaſions: which is nothing elſe, but to withſtand the will of God, and ſo take from their children that free choyce which God of his diuine goodnes, hath promiſed them.</p>
+            <p>Therefore if the father be carefull of the loue and qui<g ref="char:EOLhyphen"/>et of his houſe, let him be alſo carefull to know whether his ſonnes mindes, be giuen eyther to learning, or to ar<g ref="char:EOLhyphen"/>mies, or to huſbandry, or to marchandize, and when hee ſhall perceiue he hath drawne him out of the right, let him make him returne into it forthwith, and ſet him againe where he ſhould be, otherwiſe let him aſſure himſelfe, that a thing ill begun will come to a worſe end.</p>
+            <p>Seeing we are to ſearch why children oftentimes fall not out according to the good hope of their parents, we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> haue neede to begin at the milk they ſucke in their cradles, for that the nurſes milke is of ſuch force, that the vſe ther<g ref="char:EOLhyphen"/>of
+<pb facs="tcp:5364:22"/>maketh the child take after her, then after the mother which brought him into the world: and when I remember the cuſtome of diuers women in Fraunce, who bring vp their Infants onely with the milke of beaſts: I thinks thereof it commeth that diuers of them are ſo ſterce and cru<g ref="char:EOLhyphen"/>ell, that by their ill life, many of them ſhew themſelues ſcarce to be indued with that reaſon proper to men.</p>
+            <p>I am of mind without doubt, that the effects of the milke is maruelous, and it is a thing certaine, that if a lambe be nouriſhed with the milke of a Goate, or a Kidd with the milke of a yeaw, the Kidd will haue a very ſoft hayre, and the Lambe a very rough and barry wooll.</p>
+            <p>And therefore it is thought that as the childe by reaſon of the milke, taketh after the complerion of the Nurſe.</p>
+            <p>So the diſpoſition of the minde, fol oweth the compleri<g ref="char:EOLhyphen"/>on of the body: and thereof alſo it commeth, that the daugh<g ref="char:EOLhyphen"/>ters of honeſt women, oftentimes proue altogether vn-like them both in body and minde: ſo that to deliuer Children from their mothere to nurſes, cannot be ſaid ſo be other then a corrupting of nature.</p>
+            <p>But if wee ſhould make mention of this firſt nouriſh<g ref="char:EOLhyphen"/>ment, we ſhould haue ſpoken of it, when we diſcourſed of vnfortunate mariages, but I neyther ſpake of it there, neyther will doe here.</p>
+            <p>The reaſon I forbeare to ſpeake of it, is, for that wo<g ref="char:EOLhyphen"/>men at this day, are ſo curious of their comlines, or rather of their vanity, that they had rather to peruert the nature of their children, then chaunge the forme of their hard and round papps.</p>
+            <p>Whereof it commeth often to paſſe, that the children faſhioning themſelues to the humours of their nurſes, ſwarue from the loue and dutie they owe to their mothers, and haue not in them the bloud which moueth then: to o<g ref="char:EOLhyphen"/>bey: which is manifeſt by the example of a baſtard in <hi>Italy,</hi> who returning from the warres laden with the ſpoyles of
+<pb facs="tcp:5364:22"/>the enemy, had his mother and his nurſe comming before him, be gaue to his mother a ſiluer ring, and to his nurſe a chayne of golde, which his mother miſliking with, he talde her, ſhe was to blame to doe ſo, ſaying: You hore me but nine monethes in your wombe, but my nurſe kept me with her ſeats the ſpace of two yeares, that which I hold of you is my body, which you gaue me ſcarre doneſtly, but that which I haue of her proceeded of a pure affection.</p>
+            <p>And moreouer as ſoone as I was borne, you depriued me of your company, and vaniſhed me your preſence: but ſhe moſt gratiouſly receiued me (baniſhed as I was) be<g ref="char:EOLhyphen"/>twéene her armes, and vſed me ſo wel, that ſhe hath brought me to this you ſee: theſe reaſons with others, ſtopped his mothers mouth, being aſhamed, and made his nurſs further in loue with him: but reſurne we againe to our matter.</p>
+            <p>Seeing that diuers women will not be the whole mo<g ref="char:EOLhyphen"/>ther of their children they ought at leaſt to be carefull, to chooſe good nurſes and of a good complexion.</p>
+            <p>For as the firſt abuſe began in ſetting out their children to nurſe: ſo conſequently followed the ſecond, not to reſ<g ref="char:EOLhyphen"/>pect the nature of the nurſe.</p>
+         </div>
+         <div n="15" type="chapter">
+            <head>CHAP. XV. </head>
+            <argument>
+               <p>¶ Herein is ſhewed the occaſions of the great diffe<g ref="char:EOLhyphen"/>rence, that oftentimes hapneth betweene the Parents and their Children.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">B</seg>VT</hi> now let vs goe forward, to ſhew the occaſions of the difference betweene the fathers and their children, holding for certaine, that the difference procee<g ref="char:EOLhyphen"/>deth from the trade of life the childe is ſet too, and therefore I ſay, that it is not enough for the father to know where<g ref="char:EOLhyphen"/>vnto
+<pb facs="tcp:5364:23"/>his child is not naturally giuen: if afterward he in<g ref="char:EOLhyphen"/>deauour not to aſſiſt him, and carefully to prouide to place him in that Art or Science that he moſt deſires.</p>
+            <p>Another cauſe of this difference betwéene the father and the childe, is when the father loueth himſelfe better then his child keeping him with him to play withall, without taking any care to ſet him to maſters which may inſtruct him in Learning, or to the Court, or to thoſe profeſſions, wherevnto his mind is moſt inclined.</p>
+            <p>In this many wealthy fathers greatly offend, who beare themſelues bolde vpon their goods, and neuer take care for the bringing vp of their children, in learning and vertue, but ſuffer their wits to be dulled with idlenes, and gluttony, that (as the prouerbe is) they know not chaffe from corne, but grow to haue as good iudgement as the Aſſe, which iudged the Cuckoes ſinging, to be more ſweets then the Nightingales: but now ſome will ſay, that the more the father kéepeth his children about him the more he maketh their manners like to his.</p>
+            <p>But ſuch men are deceiued, for the life of the olde father is no patterne for the young ſonne to ſhape his doings by: and beſides in time he will accuſe his father, for that ha<g ref="char:EOLhyphen"/>uing oppertunitie to ſend him abroad to get wealth and e<g ref="char:EOLhyphen"/>ſtimation, he kept him at home, and thereby hindreth his preferment: Therefore thoſe fathers that loue their chil<g ref="char:EOLhyphen"/>dren will not by keeping them vnder their wings, hinder their preferment, for in my iudgement the father ſhewes his child the greater figne of good will, in letting them goe from him, then in keeping him at home, for thereby he pre<g ref="char:EOLhyphen"/>fers his childs profit before his owne, and if he loue him as he ought by nature: he muſt alſo loue his preferment, and ſéeke to better his eſtate, liking better that be ſhould dye like a horſe in a battell, then liue like a bogge in the mire.</p>
+            <p>I haue yet made no mention of fathers, which are in<g ref="char:EOLhyphen"/>dued
+<pb facs="tcp:5364:23"/>with learning, ſufficient to make his childe partaker of his knowledge, for indéed they be very rare, and if there be any ſuch, yet they will not or they cannot take ſuch paines, nor tye themſelues to ſuch a charge, hauing other buſines.</p>
+            <p>Marry if they would vndertake it, there is no doubt but great good would come of it, for that the father would in<g ref="char:EOLhyphen"/>ſtruct the child more carefully, and the child would receiue it more haedefully of his father, then of his maiſter.</p>
+            <p>For <hi>Cato</hi> of <hi>Rome,</hi> himſelfe taught his ſonne, and brought him to great perfection, without the helpe of any gouernour or maiſter.</p>
+            <p>Likewiſe <hi>Octauian Auguſtus</hi> being Emperour tooke no ſcorne to teach his two adoptine ſonnes: but the iniquitie of this our time is ſach, that men would count it a mon<g ref="char:EOLhyphen"/>ſterous thing to ſee a father being a gentleman to teach his ſonne, but the ſhame of thoſe fathers is greater, who being neither ſufficient nor willing to teach their children them<g ref="char:EOLhyphen"/>ſelues take no care to put them out to be inſtructed by o<g ref="char:EOLhyphen"/>thers, ſuch men in my iudgement are very ſimple, and know not the difference betweene the learned and the ig<g ref="char:EOLhyphen"/>norant.</p>
+            <p>Yet for all that, the abuſe of this age is ſuch, that the men of our time, will not haue their ſonnes breake their heads with ſtudy and in a manner miſlike that they ſhould reade, forgetting quite, that the ignorant in compariſon of the learned, are worſe then dead, and that rich men without learning, are budies without minds, and tearmed by Diogines, ſheepe with golden fleects: and therefore they ought to be more carefull to inſtruct their children in learning, for as the poore are driuen to ſtudy by neceſſity, ſo the rich are hindred from it by ſuperfluitie: and they con<g ref="char:EOLhyphen"/>ſider not vntill it be too late, that learning is more neceſſa<g ref="char:EOLhyphen"/>ry for rich men, then for poore: for the rich haue more dea<g ref="char:EOLhyphen"/>lings in the world, and haue <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ore néede of wit then the
+<pb facs="tcp:5364:24"/>poorer ſort, for riches are brettle and frayle, and can hard<g ref="char:EOLhyphen"/>ly laſt, without they be kept with great wit and wiſdome.</p>
+            <p>And it is certaine that a man ſiueth better with a little gotten by labour, then a great deale giuen him by fortune, and thoſe which waxproud through aboundance of riches, ſhew themſelues not to know what happened to the ſnaile that made his braggs how he had gotten to the top of the pine tree, a little before a tempeſt blew it downe.</p>
+         </div>
+         <div n="16" type="chapter">
+            <head>CHAP. XVI. </head>
+            <argument>
+               <p>¶ Of the great wiſedome of men, in getting of riches and of the excellencie of many good and lear<g ref="char:EOLhyphen"/>ned Maiſters, now in this age.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">L</seg>ET</hi> vs now goe a little furder, and conſider that thoſe which are wiſe, the richer they are, the bet<g ref="char:EOLhyphen"/>ter they will conſider with them<g ref="char:EOLhyphen"/>ſelues how riches are gotten with trauell, kept with feare, and loſt with griefe: and that he which putteth his truſt in them ſhall be deceiued: for the true riches are thoſe, which cannot be loſt being once gotten, and therefore wiſe fathers will be carefull to bring vp their children in learning, perſwading them that they are neuer rich, vntill they be learned.</p>
+            <p>There are in this age many maſters excellent in lear<g ref="char:EOLhyphen"/>ning, and yet lewd in life: therefore it is the fathers wiſe<g ref="char:EOLhyphen"/>dome to be very wary in the choyſe of them, leaſt what his ſonne getteth one way, he looſeth an other way, for he muſt haue as great care to make him vertuous, as lear<g ref="char:EOLhyphen"/>ned, and he muſt haue more care to make him good, then to leaue him riches.</p>
+            <pb facs="tcp:5364:24"/>
+            <p> For as one ſaid, if thy ſonne be wiſe and honeſt, thou ſhalt leaue him good enough: but if he be a foole, thou ſhalt leaue him too much: for fooles are not fit to poſſeſſe riches.</p>
+            <p>Now, if the child be not giuen to learning, the Father muſt not fayle to imploy him ſome other way: for there is nothing more daungerous then an idle young man: and as the tree that bloſſometh not in the ſpring time, bringeth forth no fruit in harueſt, ſo he ſhall neuer come to liue ho<g ref="char:EOLhyphen"/>neſtly when he is a man, who is not vertuouſly exerciſed while he us a child.</p>
+         </div>
+         <div n="17" type="chapter">
+            <head>CHAP. XVII. </head>
+            <argument>
+               <p>¶ Of the euill ſucceſſe of many children, through the imperfections of their Parents.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">V</seg>T</hi> amongſt the other occaſions of the ill ſucceſſe of children, this is one, when the father is careles, to make them in time to raiſe themſelues from the ground, my meaning is, that the father béeing carefull of his ſonnes aduauncement, is many times ſo curious to ſee him inſtructed in worldly mat<g ref="char:EOLhyphen"/>ters, that forgetting how the beginning of Wiſedome, is the feare of God, be taketh no care at all to inſtruct him in the Chriſtian Fayth: whereof it commeth to paſſe that many vnhappy children trayned vp altogether in worldly aſtayres, and depriued of the true light, cannot ſée the right way, but runneth into perdition.</p>
+            <p>For the wiſedome of the world, is folly with God, and it is a thing impoſſible for him to liue well that knoweth not God.</p>
+            <p>Therefore I would haue parents to take care both for the minde and body of their Children: but becauſe the minde beeing the more excellent, it is reaſon to caſt out
+<pb facs="tcp:5364:25"/>chéefeſt care vpon it.</p>
+            <p>And for that the minde in Infants is like a table booke wherein nothing is written, and like a tender twig which may be bowed euery way, it is cleare, that vertue or vice may be eaſily planted in it, and for that it is knowne by proofe, that theſe things are kept beſt in memory, which are learned in youth: Fathers ought to inſtruct their Chil<g ref="char:EOLhyphen"/>dren in the beſt thing they can, eſpecially in the feare and loue of God, holding it for a generall rule, that he which knoweth euery thing, and knoweth not God, knoweth no<g ref="char:EOLhyphen"/>thing, but if the father be diligent to inſtruct his children in the Lawe of God, he ſhall get his ioy by it, that his chil<g ref="char:EOLhyphen"/>dren thereby will doe him the more honour and reuerence, knowing that it is gods will they ſhould do ſo.</p>
+            <p>But now let vs returne againe to the former occaſion of the ill ſucceſſe of children, to which may be added this, when the father ſetteth before them a ſtayned and ſpotted glaſſe to looke in, that is, when he giueth them ill example, which the Romanes were very circumſpect in, whoſe mo<g ref="char:EOLhyphen"/>deſty was ſo great, that the father would neuer bathe him<g ref="char:EOLhyphen"/>ſelfe in the company of his ſonne, for it is counted a great fault in the father, to ſuffer himſelfe to be ſéene naked by his ſonne.</p>
+            <p>It is no maruaile though <hi>Cato</hi> put <hi>Manlius</hi> out of the Senat of <hi>Rome,</hi> onely for kiſſing his wife in the preſence of his daughter.</p>
+            <p>Therefore the father ought aboue all things to ſhew him ſelfe ſuch before them, as he witheth they ſhould be: for the maſter doth not them ſo much good by his inſtruction, as the father doth them harme by his euill example, for they are by nature lead rather to follow his ſteps, then their maſters precepts</p>
+            <p>For it is ſo naturall a thing, for the ſonne to reſemble the father in wicked qualities, as ſwearing curſing, and ſuch other vices, that if by chaunce ſome child doe not fol<g ref="char:EOLhyphen"/>low
+<pb facs="tcp:5364:25"/>his father in them but liueth vertuouſly: yet the world will ſcarce beleeue that be doth ſo, by reaſon of the euill opinion they haue of the father, but rather will thinke that the childe is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re to his vices as well as to his lands: and when they can find no fault with him any way, ſome one or other will not ſtick to hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him in the teeth, that he was the ſonne of a wicked man.</p>
+            <p>Likewiſe it the father be honeſt and the ſonne lewd, the fathers good name is called in queſtion through the ſonnes folly.</p>
+            <p>And many men thinke it vnpoſſible that the ſonne ſhould tread awry, vnles he were by his father led thereto.</p>
+            <p>And thereupon it is thought, that thoſe men which vſe too extreame ſeueritie towardes their children is not done ſo much vpon diſpleaſure that take againſt them, as for the care then haue to maintaine their owne credit.</p>
+            <p>I would therefore haue all fathers to frame themſelues to line well and orderly, as well for their owne ſakes, as for the venefit of their children, who ſeeing vertue ſhining in their fathers deeds, will haue a deſire in all goodnes to follow their ſteps.</p>
+            <p>For when children ſée their fathers ſeruants of the houſe ſtand renerently waiting vpon him, and ready at the hold<g ref="char:EOLhyphen"/>ing vp of his finger, to do his commaundements, they will thereby take example to doe their duile likewiſe, and not be leſſe obedient then leruants and ſtraungers, and beſides indeauour to be like to their father in deedes, that they may in time to come receiue the like reuerence of their ſeruants, as they ſee their father doe of his: For the father that gi<g ref="char:EOLhyphen"/>ueth an ill example to the child, in time ſhall be had in con<g ref="char:EOLhyphen"/>tempt by the child, ſo that be ſhall neyther receiue ſuccour of him in his latter dayes, nor at his death, that laſt duty to cloſe vp his eyes: beſides the father liuing diſorderly ma<g ref="char:EOLhyphen"/>ny times make hand of thoſe goods which his Children ſhould liue by.</p>
+            <pb facs="tcp:5364:26"/>
+            <p> I will now paſſe further to more occaſions of the vn<g ref="char:EOLhyphen"/>fortunate courſe of life, betworne the father and the child, whereof there are two that come into my minde: the one is when the father is more then a mother, the other when he is more then a father.</p>
+            <p>My meaning how he ſhould be more then a mother, is, when he is to blinded that he ſeeth not the imperfections of his childe, or if he ſee them, yet is ready to commend them, or to excuſe them in ſuch ſort, that if his ſonne be haughty or hare-brain'd, be termeth him couragious: if he be baſe-minded, he connteth him modeſt: if a pra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing boy, he will haue him all Orator and in flattering thus himſelfe, he thinkes him the beſt Childe in the world: with which blindnes, the fathers of one onely childe, are for the moſt part ſtrucken.</p>
+         </div>
+         <div n="18" type="chapter">
+            <head>CHAP. XVIII.</head>
+            <argument>
+               <p>¶ Of the lewdnes of many children, through the want of their good bringing vp whileſt they are young: And of the ouer-ſight of the Parents in ſuffring of them to grow too old or ſtuborne before they breake them of their obſtinacie.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Muſt néeder in this place menti<g ref="char:EOLhyphen"/>on vnto you a youth of fifterne or ſixteene yeares of age, of a ready wit, but otherwiſe vicious and lewd of life which hapned through the fault of the father and mother, who were ſo far from correcting him, that they durſt not ſo much as threaten him, nor ſay any word to him that might diſpleaſe him: and I remember when he was fiue or fire yeares olde, if any tolde them that
+<pb facs="tcp:5364:26"/>they muſt rebuke him for ſome faulte he had done, they would excuſe him by and by, ſaying, he was not yet of age to know his fault: And beeing ſeauen or eight yeares olde they would nouer beate him, nor threaten him, leaſt through ſome great feare his bloud ſhould be chaſe or in<g ref="char:EOLhyphen"/>flamed, whereby he might be caſt into an ague.</p>
+            <p>No, at ten yeares olde, they thought not good to trouble nor moleſt him, alledging that ſtripes and threats would too much pull downe his courage, and take from him his ſtout and proud ſtomacke, and though now for his haugh<g ref="char:EOLhyphen"/>ty conditions he be hated of all the whole Cittie yet they leaue not to excuſe him ſtill, ſaying, he muſt firſt grow, and then after be wiſe, and that within few dayes they wil ſend him to ſchoole, where he ſhall learne wit.</p>
+            <p>But now many a one lookes when hee ſhall be of age to he hanged o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the gallowes, to heare him before the people to lay the fault vpon his father and mother, and iuſtly curſe their fooliſh lone, and ſhamefull cockering, at<g ref="char:EOLhyphen"/>tempting as one did once, to teare their noſe and their eares of with his teeth.</p>
+         </div>
+         <div n="19" type="chapter">
+            <head>CHAP. XIX.</head>
+            <argument>
+               <p>¶ Yf a childe be of neuer ſo good a wit, yet for want of good bringing vp, groweth to be ouer-bad, and baſe in conditions: and this oftentimes falleth out, by the cockering of their Parents.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">B</seg>Y</hi> this example in the former Chapter reci<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, it is verified that a child though of nouer ſo good a witt, yet beeing ill brought vp proueth too bad, but this great tockering and compaſſion is pro<g ref="char:EOLhyphen"/>per to the mother, who commonly brin<g ref="char:EOLhyphen"/>geth vp her children with more tender
+<pb facs="tcp:5364:27"/>affection and diſcretion: and according to the olde ſaying, it is an hard matter for a mother to be fond of her children, and wiſe both together: but yet the right loue, is to beate and correct them when they ſhall deſerue it, for certainely the rod doth not teſſen the mothers loue, but rather in<g ref="char:EOLhyphen"/>creaſe it, for if the exceſſe of loue be to be blamed in the mo<g ref="char:EOLhyphen"/>ther, much more is it to be reproued in the father: wheſe part it is ito examine and correct his childrens faults, aſſu<g ref="char:EOLhyphen"/>ring himſelfe the onely way to ſpoyle them, is to be too much fond and tender ouer them.</p>
+            <p>But now I muſt tell you, which be theſe fathers, that I call more then fathers, in my oppinion they be thoſe, which are too cruell to their children, and beate them con<g ref="char:EOLhyphen"/>tinually like ſlaues for the leaſt fault in the world.</p>
+            <p>Truely thoſe fathers are to be miſliked of all men, for that without any diſcretion they meaſure their children by themſelues, and require at their hands a matter impoſſible, whch is to haue them be olde in their youth, not ſuffering them to inioy that liberty which is alowed to their age and in my minde, they deſcrue no other name then of Schoole-maiſters, for that they cannot manner their children well, vnleſſe they haue a rod in their hand: for if they were right fathers they would be content that their children ſhoulde learne of them nothing elſe but to refrayne from doing ill, and to vſe to doe that which is good and honeſt, which a childe is brought too, rather by loue then by force: but the authoritie which ſome vn-wiſe fathers take vpon them is ſo great, that without reſpecting age, time, or place they will heepe their children vnder by force, and make them doe enery thing contrary to nature, yea euen to wear their apparell after the faſhion of the good men of the time paſt.</p>
+            <p>In this they doe amiſſe, and hereby they make their children not to loue them harſely, and to obey them ra<g ref="char:EOLhyphen"/>ther for feare then affection: And beſides, they conſider not that the beating without meaſure, and the keeping
+<pb facs="tcp:5364:27"/>them in continuall feare, is the cauſe that a man cannot iudge to what manner of life they are by nature inclined Moreouer it dulleth their wits, and repreſſeth their na<g ref="char:EOLhyphen"/>turall ſtrength, in ſuch ſort that their is no liuely ſpirit left in them: and comming in any company, they know ney<g ref="char:EOLhyphen"/>ther which way to looke, nor what to doe but ſtand like ſimple Idiots.</p>
+            <p>There I giue this counſell vnto all parents, to leaue their butchery beating, and conſider rather that for larke of yeares, their children cannot haue perfect vnderſtand<g ref="char:EOLhyphen"/>ing and experience in thinges, whereby they are to be borne withall when they doe amiſſe.</p>
+         </div>
+         <div n="20" type="chapter">
+            <head>CHAP. XX.</head>
+            <argument>
+               <p>¶ Of the great commendations of ſuch parents, as keepe their children in awe, whileſt they are young.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Like thoſe fathers well, that can keepe their children in awe one<g ref="char:EOLhyphen"/>ly with ſhakeing their head at them, or vſing ſome ſuch like ſigne and can onely with a word correct them, and make them a<g ref="char:EOLhyphen"/>ſhamed of their fault: yet I am perſwaded that there are few fa<g ref="char:EOLhyphen"/>thers, that know how to keepe the meane, but they will or<g ref="char:EOLhyphen"/>ther be too rough or too gentle to their children, whereof as the one driues them to deſperatenes, ſo the other brin<g ref="char:EOLhyphen"/>geth them to wantonnes.</p>
+            <p>We muſt thinke that a childe hath giuen vnto him a father and a mother, to the end that of the wiſedome of the one and the loue of the other, that meane I ſpeak of might be made, and that the ſeueritie of the father may be ſom<g ref="char:EOLhyphen"/>what mittigated by the leuity of the mother.</p>
+            <pb facs="tcp:5364:28" rendition="simple:additions"/>
+            <p> Now this calls to mind an other diſagréement betwéen the father and the childe, which is the partiall loue of the father towardes his children: for in my minde it is a great fault that he ſhould loue one more then an other, and that all being of his fleſh and bloud, he ſhould caſt a merry countenance vpon ſome of them, and an angry looke vpon other ſome.</p>
+            <p>Yet this is the nature of man, that a father loneth not all his children alike, and yet he whom he loueth leaſt, cannot iuſtly complaine of him: for the in-equality of loue is permitted to the fathers affection.</p>
+            <p>A father that is a huſbandman, hauing one ſonne a ſchol<g ref="char:EOLhyphen"/>ler, an other a Marchant, and an other a huſbandman, of thoſe three it is a great chaunce but hee will loue the huſ<g ref="char:EOLhyphen"/>bandman beſt, for he ſeeth him like himſelfe in life and manners, wherein his other ſonnes in duty muſt be con<g ref="char:EOLhyphen"/>tent: for by nature we are led to like thoſe things which reſemble vs moſt: Oh how hard a thing it is for the fa<g ref="char:EOLhyphen"/>ther, after partiall loue is once entered into his hart, to giue iuſtice indifferently.</p>
+            <p>The greater is the wiſedome of the father, who prefer<g ref="char:EOLhyphen"/>ring the deſerts of his children, before his owne partiall loue maketh his ſences yeeld to reaſon, and ſheweth him<g ref="char:EOLhyphen"/>ſelfe in deeds a like towards all.</p>
+            <p>I will not deny, but the father by his authoritie may diſtribute his fauours as he ſeeth good, to one more, to an other leſſe, according to the ſtate and doings of his children, for as by gentle vſage he incourageth a child that is well, giuen to doe well ſo by hard handling, he may bring one that is vntoward to goodnes: Yea if he haue any childe that is paſt grace, without any hope of recouerie, he may lawfully not onely loue him leſſe then the reſt, but quite caſt him out of his fauour.</p>
+            <p>But thoſe fathers are greatly to be blamed, who with vniuſt partiality, and without any reaſonable conſiderati<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:5364:28" rendition="simple:additions"/>on will vſe one child as ligetimate, the other vnlawfull: whereof it followeth, that he which is ſo meanely accoun<g ref="char:EOLhyphen"/>ted of, doth not onely fayle in affection to his kindred, but beginneth to fall to ſecret warre, with his owne brothers: whereby the father that might eſtabliſh peace and con<g ref="char:EOLhyphen"/>cord amongſt his children, ſhall by his partiality plant a<g ref="char:EOLhyphen"/>mongſt them a roote of continaull diſcord: Therefore the father ought to be well aduiſed how he preferreth in good will one childe before an other, and not to doe it vpon e<g ref="char:EOLhyphen"/>uery light occaſion</p>
+            <p>I likewiſe thinke it a great folly inſome fathers, that make ſome of their children their darling and minion with out ſeeing any towardnes in them in the world, and let e<g ref="char:EOLhyphen"/>uery man to haue knowledge of their fond &amp; cauſles affecti<g ref="char:EOLhyphen"/>on: yet it often falleth out that thoſe children by reaſon of their wanton and dilicate bringing vp, proue doults and ſimple ſotts: whereas contratiwiſe thoſe which are ba<g ref="char:EOLhyphen"/>niſhed from their fathers loue, and driuen to ſhift for them<g ref="char:EOLhyphen"/>ſelues, doe oftentimes by their owne paine and trauell, ſo aduaunce their eſtates that they are in better caſe, then their father or their lawfull brothers, to whom oft-times they afford ayde and ſuccour in their diſtreſſes: we may boldely then ſay, that the in-iuſtice of the father, bréedeth diſagreement betweene his children and himſelfe.</p>
+            <p>But now againe to our purpoſe: It is commonly ſeene, and that for the moſt part thoſe children which are moſt made of, fall out the worſt, and haue many miſfortunes: which makes me remember a prety Ieſt of an Ape that had two young ones at a litter, whereof ſhe loued the one, and cared nothing for the other: which Ape vpon occa<g ref="char:EOLhyphen"/>ſion was driuen from her den, and hauing taken that which ſhe loued in her armes, and tyed the other at her backe, in running ſhe ſtumbled and fell howne againſt the hard ground, and ſo killed her young one, ſhe had in her armes, and loued ſo well, but the other which was at her backe
+<pb facs="tcp:5364:29"/>had no harme at all whereby we may ſee that the Father oftimes doth pennance for his fondnes.</p>
+            <p>But to returne to our matter, there is yet remaining one occaſion of the diſagreement betweene the Father and the Childe, which is when the Father will not ſuffer his Children to come forth of their Infancy, meaning that when eyther thorough the authoritie of olde age, or couet<g ref="char:EOLhyphen"/>ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nes, the father (though his Children be growne to mans eſtate) will alow them neither more liuing nor more liber<g ref="char:EOLhyphen"/>ty even they had when they were Children: therefore let al men learne &amp; know that Children now adayes are borne wiſe, and haue gray haires in youth: and as men liue not ſo long in theſe dayes, as they did in times paſt, ſo they grow ſooner to ripenes of wit now, the<g ref="char:cmbAbbrStroke">̄</g> they did here to fore, there<g ref="char:EOLhyphen"/>fore I am to aduiſe the Father (if he tender the well doing of his Childe,) to alow him with diſcretion, ſome liberty in matters of the Houſe, ſuffring him ſometime to inuite to welcome &amp; make his companions good cheere, to giue enter<g ref="char:EOLhyphen"/>tainment to ſtrangers, and as occaſion ſhal ſerue to vſe the goods of the houſe to ſerue his turne, but aboue all things he muſt ſtill counſell the Sonne to play the good huſband, &amp; to ſee to things about home whereby he may be able to keepe &amp; augment his eſtate, &amp; keep himſelfe fro<g ref="char:cmbAbbrStroke">̄</g> falling into decay.</p>
+            <p>Hereof will riſe thrée good effects: the firſt is the loue of the ſonne, who ſeeing his father withdraw himſelfe by litle &amp; little, fro<g ref="char:cmbAbbrStroke">̄</g> the gouerment of the houſe, to the intent to put him in his roome receiueth therby wonderful countentment, and thinketh himſelfe in mind much bound vnto him, &amp; not onely honoreth him, but witheth him long to liue on earth.</p>
+            <p>The ſecond is the commoditie of the ſonne, who by this meanes, after his fathers death, ſhall haue no neede to ſeeke counſel at his friends &amp; kinſfolks hands nor to put the orde<g ref="char:EOLhyphen"/>ring of his houſe to the diſcretion of his ſeruants, hauing by the foreſight of his father, at things long before in his owne hands, ſo that y<hi rend="sup">e</hi> gouerment of his houſe ſhall not be ſtrange
+<pb facs="tcp:5364:29"/>nor troubleſome vnto him, as it is to many, when they haue loſt their Father.</p>
+            <p>The third, is the ſweete reſt, and content of minde, which the Father inioyeth in his old dayes, both for that he feeleth himſelfe ridde from all worldly troubles; and beſides ſeeth his Sonne by his example, gouerne his houſe orderly: and for my part, I count it the chiefeſt felicitie in this world, for a man to haue about him a number of goodly Children, which are growne to perfection; whom he may tearme the light of his eyes, and the ſtaffe of his age: and mee thikes it muſt needes be a greater comfort to the Father to ſee a proofe of his Childe, and how diſcreetly he can diſpoſe of his lyuing, and order his houſhould, then to doe it himſlefe: now when the Father ſhall be arriued to the hauen of ſuch happineſſe, mee thinkes he may ioyfully looke for the laſt hower of his life, and die moſt contentedly.</p>
+            <p>Yet in the holy Scriptures in it written: <hi>Giue no autho<g ref="char:EOLhyphen"/>ritie ouer thee; neither to thy Sonne, neither to thy Wife, neither to thy Brother, nor to thy Friend: and giue not a<g ref="char:EOLhyphen"/>way thy liuing to another, while thou art aliue, leaſt thou afterward repent it:</hi> Yet there haue been in time paſt, and are at this day, many wiſe Fathers, which depart with their Li<g ref="char:EOLhyphen"/>uinges to their Children, and yet incurre no inconuenience by it; mary they doe it in ſuch ſort, that they neither bring themſelues in ſubiection to their Children, nor into ſuch caſe, that they are not able to liue without them.</p>
+            <p>But now in briefe, I giue the Father to vnderſtand, that there is nothing in this world, wherein there ought more care and diligence to be beſtowed, then in the bringing vp of Chil<g ref="char:EOLhyphen"/>dren, for thereof proceedeth for the moſt part, either the mayntenance, or the decay of Houſes: therefore he muſt begin in time, to furniſh their tender mindes with the feare and knowledge of God, and ſuch good conditions, that they may learne to liue, as if they were ſtill at the poynt to die: that he indeauour to keepe them in obeydience, rather by loue
+<pb facs="tcp:5364:30"/>then feare; and cauſe them to doe well, rather of their owue accord, then by inforcement: yet how forward ſo euer they be, hee muſt not ceaſe to incourage and pricke them forwarde; knowing that there is no Horſe, but needeth the ſpurre; that he ſuffer them not to be idle, but ſet in tune to labour, the better to indure it afterward.</p>
+            <p>That he enter not into rage and impatience with his Chil<g ref="char:EOLhyphen"/>dren; tor a good Father vſeth Wiſedome in ſtead of Anger, and awardeth a ſmall puniſhment for a great fauit; and yet is not ſo fooliſh pittifull altogether to pardon it, knowing that as by ſparing the Rodde he may ſpill his Child; ſo by wearing it too much, he make him either dull, or deſperat.</p>
+            <p>That he prouide them of good Maiſters to teach them; for young Children muſt be propped vp like young Trees, leaſt the tempeſt of Uices either breake them, or bow them crooked.</p>
+            <p>That he ſuffer them not in any wiſe to haunt the company of ſuch people as will corrupt with wanton ſpeaches, and naughtie conditions.</p>
+            <p>That he be carefull to marke in their childhoode, to what kind of life they are naturally inclyned, that he may diſigently ſet them vnto it: for an vntoward beginning, hath euer an vnluckie ending.</p>
+            <p>That without iuſt occaſion, he vſe no partiallitie amongſt his Children, vnleſſe he be willing to ſet them together by the eares.</p>
+            <p>That in all his doinges, hee ſhew himſelfe graue and mo<g ref="char:EOLhyphen"/>deſt: and by doing well him ſelfe, giue his Children an ex<g ref="char:EOLhyphen"/>ample to doe the like: that in his olde age when his Sonnes are growen men, thorough couetouſneſſe, hee witholde not from them reaſonable ſtipendes to liue by: otherwiſe in ſtead in honouring him, they will wiſh him buried.</p>
+            <p>Finally, that he be ſo carefull ouer his Children, that at his death, hee feele not his conſcience charged in hauing to make account for his necligence in their behalfe: perſwading
+<pb facs="tcp:5364:30"/>himſelfe, that amongſt all the abuſes of the world, there is none worſe, then a necligent Father: therefore he is mooued by Nature, pricked in Conſcience, and bound in Houeſtie, to haue a great care of his Children.</p>
+         </div>
+         <div n="21" type="chapter">
+            <head>CHAP. XXI.</head>
+            <argument>
+               <p>¶ Heere followeth the duetie of the Childe toward the Parentes.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">B</seg>UT now to fall from the care of the Fa<g ref="char:EOLhyphen"/>ther, I will briefly ſpeake of the duetie of the Child: For all Children ought to know, that by Nature they are bound to honour their Father and Mother: in do<g ref="char:EOLhyphen"/>ing ſo, God giueth his bleſſing, and pra<g ref="char:EOLhyphen"/>miſeth the reward of long life; for, next vnto God, there is none more to be honored then the Pa<g ref="char:EOLhyphen"/>rents. If the Father be churliſh and curſt vnto them, let the manifould benefites receiued of him, counteruaile that cru<g ref="char:EOLhyphen"/>eltie, and continue them in their duetie.</p>
+            <p>Let Children take heed of moleſting their Parentes any way; but to ouercome them with patience: for they ſhall ne<g ref="char:EOLhyphen"/>uer ſtude a ſurer friend, then their Father: and they muſt al<g ref="char:EOLhyphen"/>wayes carry in their mindes, that hee which ſtubbernly ſtri<g ref="char:EOLhyphen"/>ueth with his Fahter, prouoketh the wrath of God againſt him, ſo that he ſhall neither paſſe away his life quietly, nor yet make his end honeſtly: Then let them ſo behaue themſelues, that their Father haue no cauſe to curſe them, and wiſh ill of them: for God ſtill heareth the prayers of the Father againſt his Children.</p>
+            <p>Let them not thinke any ſeruice ſufficient to requite their Fathers goodneſſe towards them: for when they haue done their duetie, to the vttermoſt they can, yet ſhall they not haue done all which they ſhould.</p>
+            <pb facs="tcp:5364:31"/>
+            <p> Laſtly, let the ſticke to their Parents, in all troubles and aduerſitie, aſſuring themſelues, that they which forſake their Parents, ſhall be forſaken of God: and that is the greateſt offence that may be committed.</p>
+            <p>Let all men be aſſured of this, that he ſhall haue the ſame meaſure made him by his Children, as hee ſhall mete to his Father: like as there was a Father, who was driuen out of his owne hauſe by his Soune, and was faine to take vp his lodging in the Spitie-houſe; and ſeeuig his vnkind Sonne vpon a day going by the doore, prayed him for charitie ſake, to ſend him a paire of Sheetes to lie in: The Sonne moo<g ref="char:EOLhyphen"/>ued with his Fathers requeſt, was no ſooner come home, but he commanded one of his ſonnes to carry a paire of Sheetes to the Hoſpitall to his Graundfather; but the Child deliue<g ref="char:EOLhyphen"/>red but one of them, which his father blaming him for, at his returne: hee anſwered, I will keepe the other for you Fa<g ref="char:EOLhyphen"/>ther, when in your old age you ſhall goe to the Spitle-houſe, as my Graund-father now doth. Hereby wee may learne, that our Children will deale with vs, as wee deale with our Parentes. And this ſhall ſerue to cloſe vp our Diſcourſe, touching this matter.</p>
+         </div>
+         <div n="22" type="chapter">
+            <head>CHAP. XXII. </head>
+            <argument>
+               <p>Of the diuerſitie of the care that Parentes ought to take of their Daughters, in the bringing vp of them, more then they take for the bring<g ref="char:EOLhyphen"/>ing vp of their Sonnes.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">N</seg>Ow will I make ſome particular mention of Daughters; for that the Father is to vſe himſelfe otherwiſe towards them, then toward his Sonnes; yet diuers be the maners of bringing vp of Daughters in <hi>England</hi> at this day: for, ſame fathers
+<pb facs="tcp:5364:31"/>will not ſuffer their Daughters to ſet their foote foorth of doores, not paſt once or twiſe in a yeare. Some will allowe them, not onely to keepe company with their friendes and kinsfolke at home in the houſe, but alſo to viſit their friendes abrode, and to be preſent at Banquets &amp; meeting of friendes. Some will haue them taught to write and reade, and to haue ſkill in Muſicke: others will haue them learne nothing but to ſow and ſpinne, and gouerne the Houſe: All theſe diuerſi<g ref="char:EOLhyphen"/>ties, I will a little touch in this manner.</p>
+            <p>Firſt, not to ſuffer a Mayde to go abroad but once or twiſe in a yeare, is the way to make her become fooliſh, fearefull, and out of countenance in compante.</p>
+            <p>Now the other, which goeth abrode euery day with her Mother, and haunteth Feaſtes and Banquets, melteth away like Ware in the fire; and driuing by little and little the may<g ref="char:EOLhyphen"/>denly modeſty, out of her lookes and geſtures, there appea<g ref="char:EOLhyphen"/>reth in her a licencious and wanton behauiour; ſo that ſhe is rather taken for a Mother, then a Mayde: and if there come no worſe of it, the Mother may aſſure her ſelfe, that in bring<g ref="char:EOLhyphen"/>ing her Daughter ſo often abroad in publicke places, maketh her thereby leſſe prized, and worſe beſtowed, then otherwiſe ſhee might bee.</p>
+            <p>I ſay nothing of theſe that are taught in their Chambers to write, to read, and ſing, and neuer come downe into the Kitchin; but I will leaue that charge to the poore Huſhands, whoſe Hauſe goeth to decay, and all for hauing ſo learned a wife.</p>
+            <p>Then if you caſt your eyes vpon one of thoſe which can do nothing but ſow, &amp; ſpinne; you ſhall ſee in attyre, in talke, and in behauiour, the very figure of a countrie Milkemayde, who will haue as good a grace amongſt other women, as a Kit<g ref="char:EOLhyphen"/>chenſtuff-wench amongſt courtly Ladyes.</p>
+            <p>It behooueth then all diſcreete Fathers, who are to be<g ref="char:EOLhyphen"/>ſtow their Daughters in Mariage, to conſider of what cal<g ref="char:EOLhyphen"/>ling
+<pb facs="tcp:5364:32"/>his Sonne in law is like to bee, and ſo to frame his Daughter accordingly: as, if he purpoſe to marry her into the Countrey, to bring her vp in Countrey huſwiterie. If the Fahter meane to marry his Daughter to a Courtier, he muſt ſet her to the Court to the ſeruice of ſome great Lady, and muſt be learned to read to write, to diſcourſe, to ſing, to play on Inſtruments, to daunce, and to be able to performe all that, which belongeth to a Courtier to do: by this meanes many are marryed to great Gentlemen, without one penny dowrie giuen by their Father.</p>
+            <p>Some (I know) will alleadge, that the Father hath not alwayes his Sanne in law in his ſleeue; for indeede Mari<g ref="char:EOLhyphen"/>ages are made in Heauen, and are guided by Deſtenie; ſo that the Father may be tenne yeares in brewing a matter, which in a moment he may be driuen to change: therefore to conclude this matter touching Daughters, I can giue no fitter aduertiſement then this; that the Fathers beſtow all their ſtudie and diligence, to bring them vp chaſt, as well in body as in minde: for a man waigheth it not much to haue the fleſh vnſpotted, if the minde be defiled; and therefore it is needfull to put into their heartes godly imaginations, that from their inward puritie, there may ſhine outward modeſtie; and for that Beautie is a frayle and dangerous thing, thoſe which are beautifull, haue ſo much the more need of that ver<g ref="char:EOLhyphen"/>tue, to keepe their Beautie vnblemiſhed, for Beautie in an vnchaſt Woman, ferueth to no more purpoſe, then a golde Ring in a Swines ſnowte.</p>
+         </div>
+         <div n="23" type="chapter">
+            <pb facs="tcp:5364:32"/>
+            <head>CHAP. XXIII.</head>
+            <argument>
+               <p>Of the great diſagreements and diſcontentments, that oftentimes doth happen betweene the Maiſter and the Seruant.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">O</seg>UR Diſcourſes (I perceiue) now braw neare to an end, and we haue no<g ref="char:EOLhyphen"/>thing left to ſpeake of, but the Diſa<g ref="char:EOLhyphen"/>greements that dayly happeneth be<g ref="char:EOLhyphen"/>tweene Maiſters and Seruantes; of the which I will delate as followeth.</p>
+            <p>He that will be a Maiſter &amp; Com<g ref="char:EOLhyphen"/>maunder of Families, muſt as well know how to ſerue and obey, as to controule and commaunde; for it is not ſo eaſie a matter to know how to commaunde, as to be a Maiſter: and although there be few that take vpon them the right courſe of a Mai<g ref="char:EOLhyphen"/>ſter, and can doe that, which belongeth vnto them to doe; yet almoſt in euery Houſe, Maiſters are ſo vndiſcreete, proude, fantaſticall, and inſolent, that they vſe their Seruantes no otherwiſe, then if they were ſlaues, ſpeakeing imperiouſly to them; beeing not content, vnleſſe they ſee them tremble in their preſence; vſing no ſpeach vnto them, but full of terri<g ref="char:EOLhyphen"/>fying, threatning, and reuiling.</p>
+            <p>By ſuch maner of dealing, it commeth to paſſe, that Ser<g ref="char:EOLhyphen"/>uantes, though good and ſufficient, begin to grow naught, and to waxe coole in good-will, and necligent in duetie to<g ref="char:EOLhyphen"/>towardes their Maiſters: But thoſe Maiſters are more vn<g ref="char:EOLhyphen"/>diſcreete, which brawle and chide with their Seruantes be<g ref="char:EOLhyphen"/>fore ſtraungers, whereby in minde they make the ſtraungers thinke they are ſcarce welcome to their houſe; and beſides, thereby ſpight their Seruants the moſt of any thing in the
+<pb facs="tcp:5364:33"/>world: for proofe whereof, when a Seruant ſeeketh a paſ<g ref="char:EOLhyphen"/>ſter, he neuer inquireth whether he be of an euill life; but whe<g ref="char:EOLhyphen"/>ther he be hard to pleaſe or no:</p>
+            <p>But in my minde yet, thoſe are worſe, which ſpeake to their Seruantes with their handes; who belike, haue been beaten by their Maiſters, whom they ſerued before time, and there<g ref="char:EOLhyphen"/>fore they will reuenge it vpon their Seruantes then beeing. Other Maiſters are of this fond humor, that they will haue their Seruants vnderſtande their minde, in making onely a ſigne, as if themſelues were dumbe, and their Seruants di<g ref="char:EOLhyphen"/>uiners. Some will haue their Seruantes doe three or foure things at once, ot hauing the iudgement to conſider, that (as a Sexton ſayd) a man can not carry the Croſſe, and ring the Belles together. Some are ſo curious, that if they had a thouſand Seruantes, they would trouble them all, and neuer be content; for that none of them all can pleaſe them: whoſe faſhion it is euery month to change a Seruant.</p>
+            <p>Wee haue in London heere, a Gentleman whom I well know, who about ſixe moneths ſince, beſtowed vpon a Ser<g ref="char:EOLhyphen"/>uant of his, a Liuerie cloake: which ſince that time, hee hath beſtowed vpon foure others, and taken it ſtill from them againe. In this humor be many Maiſters now adayes: But to returne to our Philoſophicall Diſcourſe againe.</p>
+            <p>The Maiſter that often changeth his Seruants, receiueth great diſhonour thereby; and withall, ſheweth himſelfe an impatient man, and hard to pleaſe; and beſides, ſpreadeth his ſecretes and doings the farther abrode: for when a Ser<g ref="char:EOLhyphen"/>uant departeth from his Maiſter, in what ſort ſoeuer it be, whether contented or diſcontented, hee cannot refraine from reporting where ſo euer he goe, the life and behauiour of his former Maiſter: and though with one troth, he mingle a hun<g ref="char:EOLhyphen"/>dred lyes, yet there be enough that will beleeue him: and be<g ref="char:EOLhyphen"/>ſides, the Maiſter is troubled to tune his new Seruants to his fancie.</p>
+         </div>
+         <div n="24" type="chapter">
+            <pb facs="tcp:5364:33"/>
+            <head>CHAP. XXIIII.</head>
+            <argument>
+               <p>¶ Of the impatience of ſome Maiſters towards their Seruants ouer other ſome are.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>MONGST</hi> other ill maſters may be comprehended leine ſo impatient, and ſo vnreaſonable that they wil inſoven their <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r<g ref="char:EOLhyphen"/>nants to impoſſibilities, and to doe ſuch thing, as they are not able to doe, but the worſt of all are thoſe who will burthen their ſeruants wro<g ref="char:cmbAbbrStroke">̄</g>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ully with naugh<g ref="char:EOLhyphen"/>ty dealing, and therevpon turne them away.</p>
+            <p>But I ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it would be to<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> long to rehearſe all the imper<g ref="char:EOLhyphen"/>fections which be in ſuch maſters: Therefore I will paſſe to the occaſion of the di<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment betweene the Maſtre and the Seruant. which commeth by thoſe Seruants that know not bow to ſerue and obey, I meane by the vnfit to ſerue. no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> onely ſooles not ignorant aſſes, but alſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſho<g ref="char:EOLhyphen"/>neſt and h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſh companions who though they are ſuffici<g ref="char:EOLhyphen"/>ent to performe any thing comm<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ted to their charge, yet they haue ſome notable fault, whereby their maſter hath <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt cauſe to put them away, but it is as hard a matter to ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de Se<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uants without faults, as drop ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pattents with<g ref="char:EOLhyphen"/>out thirſt, and though then faults he innumerable yet their chiefeſt ornaments, are the three properties of a Dogge, to wit the gullet, for that they are Gluttone, barking: For that the maſter can doe nothing, but they will preſently report it abroad: Fiting, which is ſo naturall vnto them,
+<pb facs="tcp:5364:34"/>that let their maſter doe neuer ſo well by them, yet they will not ſticke to call him vngratefull, and to ſpeake the worſt worde in their belly by him, this vice is accompani<g ref="char:EOLhyphen"/>ed with lying (a thing of all others moſt bace) but this is to be vnderſtood of the bace and raſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all fort, for it is not to be ſaid, but as there are good maſters, ſo likewiſe there are good ſeruants.</p>
+            <p>But now to take away all diſorder, it is requiſite, that the good Maſter and the good Seruant be matcht togither: For if they be not both good, it is hard for the wiſedome of the one, to ſupply the want of diſcretion in the other: Here we muſt needs call to minde, that the golden world being gone, the Maſter and ſeruant muſt both thinke, that ſome faults muſt be borne withall on both ſides: Which conſide<g ref="char:EOLhyphen"/>ration the Seruant not onely ought to haue, remembring that it is his duety, to ſubmit himſelfe to the will and plea<g ref="char:EOLhyphen"/>ſure of his Maſter: But the maſter much more: knowing that Seruants being for the moſt part of bace co<g ref="char:cmbAbbrStroke">̄</g>dition and naturally inclined to doe ill, will not haue that fidelitie, diligence and affection towards him, as he would haue to<g ref="char:EOLhyphen"/>wards any prince that he ſhould ſerue, and conſidering that it were better for him to winke at ſome faults in his Seruants, then to diſquiet himſelfe in going about to re<g ref="char:EOLhyphen"/>forme them.</p>
+         </div>
+         <div n="25" type="chapter">
+            <head>CHAP. XXV.</head>
+            <argument>
+               <p>¶ Of the great abuſes of ſome Seruants towardes their Maſters, which is rather for want of wit, then for any other cauſe.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HERE</hi> are ſome Seruants, I know who in their Maſters preſence, looke as though butter would no: melt in their mouth, but out of their ſight they will play their parts kindely: Yea and will not ſticke to make
+<pb facs="tcp:5364:34"/>moes at their maiſter behinde his backe: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt the maſter muſt not in any wiſe, ſuffer his ſeruants to commit ey<g ref="char:EOLhyphen"/>ther in worde or deede, any fault, whereby God himſelfe, or his neighbour may be diſhonoured: giuing them to vn<g ref="char:EOLhyphen"/>derſtand, that he will entertaine no naughtyneſſe in his Houſe, but that he hatet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it moſtally: whereby though he be not able to roote out, their wickednes, yet at leaſt bee will doe his beſt endeau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our to make thee honeſt, and to feare God.</p>
+            <p>Touching ſome other naturall imperfections of ſmall importance, as to be rude, ſooliſh, vndiſcreete, craſty for<g ref="char:EOLhyphen"/>getfull, quarelons, ſpightfull, negligent, and ſuch like, they ought to be borne withall, if they cannot be reclay<g ref="char:EOLhyphen"/>med from them: Though for my part I thinke ſuch Ser<g ref="char:EOLhyphen"/>uants better loſt then found, and the houſe it<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worſe, that they are in, yet I know ſome honeſt Gentlemen, who ſo long as their ſeruauants are truſty and faithfull, care not though they be ſoolts or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſters to make them merry.</p>
+            <p>There are likewiſe ſome Maſters who when their Seruants take their pleaſure of them with mockes and ſcoffes, rather take pleaſure in it, then ſeeme angry with them: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike as he, who called his Seruant King of fooles, who anſwered, I would to Bed I were King of ſooles, I would net doubt then, but I ſhould beare Rule euer him, which is better then my ſelfe: This Seruant was without doubt profitable vnto him, or elſe be would not haue taken this ſcoffe at his bandes: but for all that all Maſters are not ſo make minded, to be ſerued with ſuch men, nor all Seruante ſo happy to meet with ſuch maſters: Therefore I will ſet downe ſome ſuch order, that the Maſter and the Seruant may liue and continue long time quietly together.</p>
+         </div>
+         <div n="26" type="chapter">
+            <pb facs="tcp:5364:35"/>
+            <head>CHAP. XXVI.</head>
+            <argument>
+               <p>¶ How a Seruant may liue quietly with his Maiſter, if hee be of any reaſonable gouerment.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">F</seg>IRST</hi> of all I thinke it neceſſa<g ref="char:EOLhyphen"/>rie, that be which doth deſire to be well ſerued require in his ſer<g ref="char:EOLhyphen"/>uant three ſpeciall thinges, that is to ſay, loue, loyaltie, and ſuffi<g ref="char:EOLhyphen"/>ciency, &amp; ſuch a one that a maſter ſhall eaſtly come by, which will ſhew himſelfe, to be a good and looing Maſter, following the commaundement of the wiſe man, loue him whom thou noutiſheſt, and he ſhall be forced to loue thee againe, if Maſters will but thinke that Seruants are men, and their humble friends, they ſhal win their good wils and incourage them to do diligent ſeruice, but withall I hold well that the maſter keepe his ſtate and degree, to loue them well, but not to imbrace them, for being haile-fellow well met with his Seruant, he ſhould ſhew himſelfe too low mindrd, and not fit to commaund, and to be as it were a ſeruant with ſeruants, which would redound to his reproach, beſides, he ſhould ſoone perceius that too much familyarity would breed contempt and therefore men of Iudgement will behane themſelues with their ſeruants in ſuch fort, that they will nerther make them too ſawey, by ouermuch familiarity nor to fearefull by ouermuch ſeueritie: For in no wiſe let a maſter be terrible to his ſeruant, leaſt in forwning ſtil vp<g ref="char:EOLhyphen"/>on him, he make him thinke that neyther he loueth him,
+<pb facs="tcp:5364:35"/>nor liketh of his ſeruice, which is the way quiterd diſco<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rage him: And yet in giuing good countenance to his Ser<g ref="char:EOLhyphen"/>vant, be muſt be wary to obſerue fit time and place, for as it beformeth the maſter abroad in the preſence of ſtraun<g ref="char:EOLhyphen"/>gers, to caſt a graue and ſad looke vpon vis ſeruants, ſo it is his part being at home in his owne houſe, to looke more pleaſantly vpon them, and to ſpeake more familiarly vnte them which is thing they loue of life, and are thereby incouraged to doe him good ſeruice.</p>
+         </div>
+         <div n="27" type="chapter">
+            <head>CHAP. XXVII.</head>
+            <argument>
+               <p>¶ How the Maiſter with good perſwaſions may gouerne his Seruant, and in the obſtinacie of his Seruant, what will inſue vnto him.</p>
+            </argument>
+            <p>
+               <hi>
+                  <seg rend="decorInit">Y</seg>OV</hi> ſée héere then that a maiſter may with his honour ſhew curteſie to his ſerua<g ref="char:cmbAbbrStroke">̄</g>ts, and thereby get their gadwil and loue, pet muſt be not perſwade himſelfe that his ſeruants ought to diſcharge him of al his buſines, but that he muſt take part with them &amp; conſider that it is no eaſte matter to gouerne ſeruants, and that the greater number be ſhall haue, the greater wil be his trouble to guide them, for there falls out many houſhould quarrels and contentions where there are many ſeruants: he muſt alſo thinke, that there is no ſeruant ſo well framed to the ſeruice of other Maſters, but that he muſt be faine to re<g ref="char:EOLhyphen"/>ceiue new lawes of his new lord: and therefore he muſt not thinke that at the firſt baſh, his ſeruant is made to his bowe, but he muſt leaſurely and patiently, let him vnder<g ref="char:EOLhyphen"/>ſtand his mind &amp; to ſpeake fraely vnto him, as well to make him leaue his olde faſhions which perchance be liketh not, as to frame him to his owne fancy. And if I were to take a ſeru<g ref="char:cmbAbbrStroke">̄</g>at, I would rather chooſe a freſh-water ſowler, which neuer had ſerued, the<g ref="char:cmbAbbrStroke">̄</g> one accuſtomed of lo<g ref="char:cmbAbbrStroke">̄</g>g time to ſeruice.</p>
+            <pb facs="tcp:5364:36"/>
+            <p> For thoſe which haue ſerued in many houſes, haue for the moſt part gotten the vſe of ſome ill quality, which they will barely be brought to leaue, but one that is but rawe in ſeruice, ſheweth himſelfe more tractable more gentle, and more fit for all manner of ſeruice, &amp; the maſter commonly will be the better pleaſed with his goodwill then with the o<g ref="char:EOLhyphen"/>thers ſkill for it is a thing too hard to chaunge the manners of an old ſeruant, and yet a maſter for a time muſt be faine to vſe great patience, and take great paine with a young ſeruant, but yet to avoide the more trouble, let him be ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to chaſe one of a good wit, and fit for ſeruice.</p>
+            <p>This brings into my mind a pleaſant ſtory of a Spaniſh Gentleman that had one day good tryall of the good wit of a new come ſeruant, which Gentleman hanging ſent his o<g ref="char:EOLhyphen"/>ther ſeruants about other buſines, after be had mate <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un dreſſe vp the houſe be willed him to couer the table, which be did, and though that day he dyned alone in his chan<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er, yet his ſeruant ſet two trenchers on the the table, and two ſtooles, the one againſt the other, the Gentleman ſayd no<g ref="char:EOLhyphen"/>thing to it, but ſuſpecting the meaning of his new come man, attended the end of the play: meate being brought in, ſo ſoone as his man bad giuen him water, he waſht and ſat him downe, which he bad no ſooner done, but his man ha<g ref="char:EOLhyphen"/>uing likewiſe waſht, ſat him down right ouer againſt him: the Gentleman being naturally eluen to be mery kept his countenance, and let his man alone hauing eaten a while friendly together, the man began to thinke him, how his maſter might perchannce be a thirſt: wherevpon be ſait, maſter, when you will orinke, I pray you make curteſie to commaund me, whereat the Gentleman lought ſo har<g ref="char:EOLhyphen"/>tily, that the poore foole knowing his fault, roſe to fetch him drinke, but would fit downe no more.</p>
+            <p>But now to returne againe to our matter, that Maſter who will be well ſerued, muſt not be ſparing of his ſpeech, as well to commaund what he will haue done, as gently to inſtruct his Seruant in that wherein he is ignorant, by
+<pb facs="tcp:5364:36"/>telling him of his fault.</p>
+            <p>Therefore if he will haue his ſeruant carefull and dili<g ref="char:EOLhyphen"/>gent in his ſeruice he muſt likewiſe himſelfe be carefull a<g ref="char:EOLhyphen"/>bout his buſines for there is nothing that more awaketh the ſeruants then the diligence of the maſter, as one the o<g ref="char:EOLhyphen"/>ther ſide it is impoſſible, the Seruant ſhould be diligent if the Maſter be negligent: And therevpon it is ſaid, that the eye of the maſter fatteth the horſe to which purpoſe a Phi<g ref="char:EOLhyphen"/>loſopher being aſkt which was y<hi rend="sup">e</hi> way, to make land bring good ſtore of corne, anſwered, for the maſter to walke often about, which is to ſae it himſelfe without truſting to his ſeruants: Moreouer he muſt vſe his authoritie in ſuch ſort, that he may be better ſerued with the turning of his eye, then others are with threatning words.</p>
+            <p>But now when the maſter knoweth he hath gotten the loue and fidelitie of his ſeruant, he muſt be carefull in any wiſe to keepe it, where vnto there is nothing of more force, then to vſe him curteouſly: ayding him in his troubles, vi<g ref="char:EOLhyphen"/>ſiting him in his ſicknes, and beſtowing on him when oc<g ref="char:EOLhyphen"/>caſion ſhall ſerue, that which ſhall coſt the maſter little, and pleaſure the ſeruant much: Therefore let him not for<g ref="char:EOLhyphen"/>get to reward the good ſeruant, and keepe him alwayes a<g ref="char:EOLhyphen"/>bout him as a pretious thing, remembring that there is nothing in this life, more neceſſarie then a good Seruant: Let him be to thee as thine own ſoule, take not ſcorne ſome<g ref="char:EOLhyphen"/>time to beare his reaſons, and gouerne thy ſelfe according to his faithfull adutie, for that there haue beene found ſer<g ref="char:EOLhyphen"/>uants, which haue more profitted their maiſters houſe, then his Brothers or Children haue.</p>
+            <p>Likewiſe giue charge to the Seruant, this leſſon to con<g ref="char:EOLhyphen"/>clude, that be take beede of failing into the common error of Seruants, who like a new broome which ſweepeth the houſe cleane ſerue diligently at the firſt, but after grow ſlothfull, that is not the way to get fauour, for not be which beginneth well is worthy of recompence, but he that con<g ref="char:EOLhyphen"/>tinueth in well doing: for the maiſter will looke that his
+<pb facs="tcp:5364:37"/>ſeruant ſhould rather heate, then coole himſelfe in ſeruice.</p>
+            <p>Let the Seruant alſo take beede, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e goe not about to creepe in credit with his Maiſter, by fla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>terie and hypo<g ref="char:EOLhyphen"/>criſie, but to ſerue and obey him with an unfayned ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, for by fayned words, men gather an argument of ſaith<g ref="char:EOLhyphen"/>les deeds: whereby his Maiſter be<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>mſh to ſoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en him, and to thinke that he had more neede to be ouer looked, then inſtructed: But in any wiſe let not the Seruant forget to doe his faithfull and true fatent, not for f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are, but for du<g ref="char:EOLhyphen"/>ties ſake: But that ſeruice is aboue all other ill beſtowed, which is not well accepted: and there is no greater grefe to a mans minde, then to ſerue and not to pleaſe, there<g ref="char:EOLhyphen"/>fore when after certaine proofe, he ſeeth that bee cannot frame himſelfe to his Maiſters fancy, let him ſake to depart rather from him with his goodwill, then with his ill.</p>
+            <p>And when he ſeeth that he is in his Maiſters bookes, let him there holde him, ſaying in his bart, happy is be, who ſerueth the happy, and not ſeeke to channge, remembring that the rowling ſtone gathereth no moſſe.</p>
+            <p>Then let there be no want found in him, of loue, of re<g ref="char:EOLhyphen"/>uerence, of faithfulnes, of diligence, of readynes, and of ſecretnes: let him not accompt of his owne life, being in his Maſters ſeruice.</p>
+            <p>But to conclude, there is one ſeruice which excéedeth all the other, which is the ſeruice of the King of glorie: and thoſe ſeruants which enter into that kind, of ſer<g ref="char:EOLhyphen"/>uice, doe (no doubt) loue well both the maiſter and the ſeruice: In which bleſſed Seruice, the Lord of all Lords make vs all dili<g ref="char:EOLhyphen"/>gent ſeruants. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
